@@ -1,5 +1,6 @@
 Mandatory target and output rules (also apply to custom instructions above):
-Treat butterflies and moths as one target category. Include clearly identifiable butterflies and moths; omit uncertain candidates.
+Omit uncertain candidates.
+Return one tight bounding box per clearly identified animal, including multiple animals when present. Do not produce duplicate boxes for the same animal or boxes around unrelated background regions.
 Return ONLY a JSON object with one key, "boxes", and no Markdown or explanation:
 {"boxes": [[100, 200, 500, 700]]}
 Each box is [xmin, ymin, xmax, ymax], with positive width and height.
