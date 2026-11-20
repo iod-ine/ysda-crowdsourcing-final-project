@@ -1,0 +1,7597 @@
+{
+ "format": "butterfly-bbox-golden/v1",
+ "annotator": "review-aggregation + team: Vova",
+ "exported_at": "2026-11-19T15:05:52+00:00",
+ "counts": {
+  "total": 400,
+  "boxes": 272,
+  "empty": 128,
+  "unresolved": 0,
+  "butterflies": 283
+ },
+ "items": [
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/89534251/original.jpg",
+   "photo_id": 89534251,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.07125,
+     "top": 0.245,
+     "width": 0.92875,
+     "height": 0.6425
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 2
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/94401699/original.jpeg",
+   "photo_id": 94401699,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.095879,
+     "top": 0.068606,
+     "width": 0.851303,
+     "height": 0.847711
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/108852070/original.jpeg",
+   "photo_id": 108852070,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.13595,
+     "top": 0.170547,
+     "width": 0.735502,
+     "height": 0.58
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/116145037/original.jpeg",
+   "photo_id": 116145037,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.032595,
+     "top": 0.15,
+     "width": 0.947769,
+     "height": 0.625
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 2,
+    "extra": 1
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/126233619/original.jpeg",
+   "photo_id": 126233619,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.044533,
+     "top": 0.05375,
+     "width": 0.931146,
+     "height": 0.803125
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 2,
+    "extra": 1
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/145698928/original.jpg",
+   "photo_id": 145698928,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.04566,
+     "top": 0.042148,
+     "width": 0.898093,
+     "height": 0.897217
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/145698951/original.jpg",
+   "photo_id": 145698951,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.058579,
+     "top": 0.1125,
+     "width": 0.88845,
+     "height": 0.7
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 2,
+    "extra": 1
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/173460760/original.jpeg",
+   "photo_id": 173460760,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "Подсказка: ночная бабочка (моль), рамка выглядит верной — скорее всего оставить как есть. Почему здесь: большинство «Всё верно», но кто-то указал лишнюю рамку — проверить. Голоса: Всё верно ×3, Лишняя рамка ×1. Комментарии ревьюеров: Лишняя рамка: На стрекозе",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.144013,
+     "top": 0.258047,
+     "width": 0.724823,
+     "height": 0.565
+    }
+   ],
+   "source": "team",
+   "review_votes": {
+    "ok": 3,
+    "extra": 1
+   },
+   "review_reason": "большинство «Всё верно», но кто-то указал лишнюю рамку — проверить",
+   "annotator": "Vova",
+   "image_width": 2048,
+   "image_height": 1365,
+   "updated_at": "2026-11-19T14:46:16.640Z"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/174340812/original.jpeg",
+   "photo_id": 174340812,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.004747,
+     "top": 0.063263,
+     "width": 0.960794,
+     "height": 0.844012
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/220579705/original.jpeg",
+   "photo_id": 220579705,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.211547,
+     "top": 0.343278,
+     "width": 0.434819,
+     "height": 0.193426
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/220582178/original.jpeg",
+   "photo_id": 220582178,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.201745,
+     "top": 0.269505,
+     "width": 0.58875,
+     "height": 0.45
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/249706634/original.jpg",
+   "photo_id": 249706634,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.094435,
+     "top": 0.200684,
+     "width": 0.81286,
+     "height": 0.487277
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/275196277/original.jpeg",
+   "photo_id": 275196277,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.310445,
+     "top": 0.273109,
+     "width": 0.245475,
+     "height": 0.256706
+    },
+    {
+     "shape": "rectangle",
+     "left": 0.799791,
+     "top": 0.472056,
+     "width": 0.174881,
+     "height": 0.179694
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/275215939/original.jpeg",
+   "photo_id": 275215939,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.104653,
+     "top": 0.248757,
+     "width": 0.81787,
+     "height": 0.597531
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "extra": 1,
+    "ok": 2
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/286650977/original.jpeg",
+   "photo_id": 286650977,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.213602,
+     "top": 0.202635,
+     "width": 0.703286,
+     "height": 0.512813
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 2,
+    "extra": 1
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/360784067/original.jpeg",
+   "photo_id": 360784067,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.162054,
+     "top": 0.305547,
+     "width": 0.5175,
+     "height": 0.4225
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/397276870/original.jpeg",
+   "photo_id": 397276870,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.31375,
+     "top": 0.081667,
+     "width": 0.345313,
+     "height": 0.4375
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/447211442/original.jpg",
+   "photo_id": 447211442,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.075129,
+     "top": 0.142522,
+     "width": 0.820219,
+     "height": 0.690895
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/449460320/original.jpeg",
+   "photo_id": 449460320,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.033588,
+     "top": 0.155,
+     "width": 0.904287,
+     "height": 0.58
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 5
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/449574807/original.jpeg",
+   "photo_id": 449574807,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.137778,
+     "top": 0.202005,
+     "width": 0.639156,
+     "height": 0.5075
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/454011739/original.jpeg",
+   "photo_id": 454011739,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.435804,
+     "top": 0.273047,
+     "width": 0.556875,
+     "height": 0.425
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 2,
+    "extra": 1
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/454023635/original.jpeg",
+   "photo_id": 454023635,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.11625,
+     "top": 0.2325,
+     "width": 0.594375,
+     "height": 0.41
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/460071239/original.jpg",
+   "photo_id": 460071239,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.166693,
+     "top": 0.165597,
+     "width": 0.680819,
+     "height": 0.745029
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3,
+    "box": 1
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/460078351/original.jpg",
+   "photo_id": 460078351,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.163177,
+     "top": 0.25138,
+     "width": 0.697096,
+     "height": 0.562222
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/460078396/original.jpg",
+   "photo_id": 460078396,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.154187,
+     "top": 0.2475,
+     "width": 0.705632,
+     "height": 0.565
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/465277264/original.jpeg",
+   "photo_id": 465277264,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.12,
+     "top": 0.1725,
+     "width": 0.816667,
+     "height": 0.5175
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/470381475/original.jpeg",
+   "photo_id": 470381475,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.228304,
+     "top": 0.311319,
+     "width": 0.593873,
+     "height": 0.269097
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "extra": 1,
+    "ok": 2
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/470668190/original.jpeg",
+   "photo_id": 470668190,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.109921,
+     "top": 0.1375,
+     "width": 0.763223,
+     "height": 0.645
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 5
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/471391923/original.jpg",
+   "photo_id": 471391923,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.323076,
+     "top": 0.131147,
+     "width": 0.390015,
+     "height": 0.650025
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/477078360/original.jpg",
+   "photo_id": 477078360,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "Подсказка: рамка 1 на крыле второй бабочки за первой? проверить, нет ли ещё бабочки. Почему здесь: большинство «Всё верно», но кто-то нашёл пропущенную бабочку — проверить. Голоса: Всё верно ×2, Пропущена бабочка ×1.",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.020255,
+     "top": 0.495589,
+     "width": 0.362759,
+     "height": 0.200208
+    },
+    {
+     "shape": "rectangle",
+     "left": 0.208361,
+     "top": 0.143151,
+     "width": 0.77074,
+     "height": 0.701023
+    }
+   ],
+   "source": "team",
+   "review_votes": {
+    "missed": 1,
+    "ok": 2
+   },
+   "review_reason": "большинство «Всё верно», но кто-то нашёл пропущенную бабочку — проверить",
+   "annotator": "Vova",
+   "image_width": 2041,
+   "image_height": 2048,
+   "updated_at": "2026-11-19T14:44:35.815Z"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/500895503/original.jpg",
+   "photo_id": 500895503,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 2
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/510051136/original.jpg",
+   "photo_id": 510051136,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.058657,
+     "top": 0.364505,
+     "width": 0.873333,
+     "height": 0.295
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 2,
+    "box": 1
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/574666267/original.jpg",
+   "photo_id": 574666267,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.259249,
+     "top": 0.429124,
+     "width": 0.202032,
+     "height": 0.326192
+    },
+    {
+     "shape": "rectangle",
+     "left": 0.308698,
+     "top": 0.263349,
+     "width": 0.261377,
+     "height": 0.293873
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/597564018/original.jpg",
+   "photo_id": 597564018,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.145664,
+     "top": 0.217917,
+     "width": 0.710268,
+     "height": 0.555556
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/599836429/original.jpg",
+   "photo_id": 599836429,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/600343107/original.jpg",
+   "photo_id": 600343107,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.060587,
+     "top": 0.177005,
+     "width": 0.836522,
+     "height": 0.625
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 1
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/600462610/original.jpg",
+   "photo_id": 600462610,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.021085,
+     "top": 0.134677,
+     "width": 0.945168,
+     "height": 0.785545
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3,
+    "box": 1
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/600834066/original.jpg",
+   "photo_id": 600834066,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.036965,
+     "top": 0.049505,
+     "width": 0.830594,
+     "height": 0.7525
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/600930735/original.jpg",
+   "photo_id": 600930735,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/601024285/original.jpg",
+   "photo_id": 601024285,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.306278,
+     "top": 0.039775,
+     "width": 0.493208,
+     "height": 0.932482
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/602733418/original.jpg",
+   "photo_id": 602733418,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.005659,
+     "top": 0.025,
+     "width": 0.974794,
+     "height": 0.9475
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 4
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/602739504/original.jpg",
+   "photo_id": 602739504,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "Подсказка: ночная бабочка (моль), рамка выглядит верной — скорее всего оставить как есть. Почему здесь: большинство «Всё верно», но кто-то указал лишнюю рамку — проверить. Голоса: Всё верно ×3, Лишняя рамка ×1. Комментарии ревьюеров: Лишняя рамка: На стрекозе",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.035693,
+     "top": 0.0075,
+     "width": 0.937377,
+     "height": 0.98125
+    }
+   ],
+   "source": "team",
+   "review_votes": {
+    "ok": 3,
+    "extra": 1
+   },
+   "review_reason": "большинство «Всё верно», но кто-то указал лишнюю рамку — проверить",
+   "annotator": "Vova",
+   "image_width": 1291,
+   "image_height": 2048,
+   "updated_at": "2026-11-19T14:46:22.703Z"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/609963435/original.jpg",
+   "photo_id": 609963435,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.006182,
+     "top": 0.0,
+     "width": 0.99093,
+     "height": 1.0
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "extra": 1,
+    "ok": 2
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/611219299/original.jpg",
+   "photo_id": 611219299,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.135209,
+     "top": 0.165,
+     "width": 0.791941,
+     "height": 0.595
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/611608927/original.jpg",
+   "photo_id": 611608927,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.056137,
+     "top": 0.220547,
+     "width": 0.871095,
+     "height": 0.51
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/611718175/original.jpg",
+   "photo_id": 611718175,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.13131,
+     "top": 0.060593,
+     "width": 0.836487,
+     "height": 0.800031
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/612001385/original.jpg",
+   "photo_id": 612001385,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/612011272/original.jpg",
+   "photo_id": 612011272,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.027334,
+     "top": 0.158047,
+     "width": 0.935795,
+     "height": 0.650833
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/613005456/original.jpg",
+   "photo_id": 613005456,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/616759928/original.jpg",
+   "photo_id": 616759928,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.239968,
+     "top": 0.326458,
+     "width": 0.518121,
+     "height": 0.409915
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 2,
+    "extra": 1
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/617256270/original.jpg",
+   "photo_id": 617256270,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.194245,
+     "top": 0.217005,
+     "width": 0.628125,
+     "height": 0.5
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 5
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/639205548/original.jpg",
+   "photo_id": 639205548,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.219524,
+     "top": 0.125503,
+     "width": 0.547629,
+     "height": 0.57147
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/669199724/original.jpg",
+   "photo_id": 669199724,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.340331,
+     "top": 0.334614,
+     "width": 0.338783,
+     "height": 0.279331
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 4
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/669200324/original.jpg",
+   "photo_id": 669200324,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.342132,
+     "top": 0.340167,
+     "width": 0.236663,
+     "height": 0.279954
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/692529210/original.jpg",
+   "photo_id": 692529210,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.416704,
+     "top": 0.173264,
+     "width": 0.171254,
+     "height": 0.524306
+    },
+    {
+     "shape": "rectangle",
+     "left": 0.353062,
+     "top": 0.468403,
+     "width": 0.244153,
+     "height": 0.387153
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 4
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/703071576/original.jpg",
+   "photo_id": 703071576,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "Подсказка: маленький тёмный объект в траве — увеличить оригинал; если не бабочка, удалить рамку. Почему здесь: вероятно, рамка на траве (наша проверка качества разметки) — проверить. Голоса: Всё верно ×3.",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.522989,
+     "top": 0.42631,
+     "width": 0.055901,
+     "height": 0.05823
+    }
+   ],
+   "source": "team",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "вероятно, рамка на траве (наша проверка качества разметки) — проверить",
+   "annotator": "Vova",
+   "image_width": 591,
+   "image_height": 591,
+   "updated_at": "2026-11-19T14:44:39.932Z"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/711175210/original.jpg",
+   "photo_id": 711175210,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.437442,
+     "top": 0.329533,
+     "width": 0.141479,
+     "height": 0.092058
+    },
+    {
+     "shape": "rectangle",
+     "left": 0.467805,
+     "top": 0.285442,
+     "width": 0.155691,
+     "height": 0.089151
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 2,
+    "box": 1
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/711175722/original.jpg",
+   "photo_id": 711175722,
+   "status": "empty",
+   "doubt": false,
+   "comment": "Подсказка: точка в небе — увеличить оригинал; если не видно бабочку, удалить рамку. Почему здесь: рамка на небе (наша проверка качества разметки) — проверить. Голоса: Всё верно ×3.",
+   "result": [],
+   "source": "team",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "рамка на небе (наша проверка качества разметки) — проверить",
+   "annotator": "Vova",
+   "image_width": 301,
+   "image_height": 363,
+   "updated_at": "2026-11-19T14:45:01.609Z"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/731273614/original.jpg",
+   "photo_id": 731273614,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "Подсказка: две жёлтые рамки — убедиться, что обе на бабочках, а не на жёлтых листьях. Почему здесь: большинство «Всё верно», но кто-то указал лишнюю рамку — проверить. Голоса: Всё верно ×2, Лишняя рамка ×1. Комментарии ревьюеров: Лишняя рамка: Не бабочка в рамке",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.475762,
+     "top": 0.527094,
+     "width": 0.109127,
+     "height": 0.159737
+    },
+    {
+     "shape": "rectangle",
+     "left": 0.390358,
+     "top": 0.56426,
+     "width": 0.100231,
+     "height": 0.132851
+    }
+   ],
+   "source": "team",
+   "review_votes": {
+    "ok": 2,
+    "extra": 1
+   },
+   "review_reason": "большинство «Всё верно», но кто-то указал лишнюю рамку — проверить",
+   "annotator": "Vova",
+   "image_width": 2048,
+   "image_height": 1536,
+   "updated_at": "2026-11-19T14:45:25.260Z"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/744971223/original.jpg",
+   "photo_id": 744971223,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.352193,
+     "top": 0.07288,
+     "width": 0.176118,
+     "height": 0.526038
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/746690362/original.jpg",
+   "photo_id": 746690362,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "Рамка разметчика возвращена: это ночная бабочка (моль), моль считается бабочкой. Решение капитана после разбора. Подсказка: ночная бабочка (моль), рамка выглядит верной — скорее всего оставить как есть. Почему здесь: лишняя рамка — удалить. Голоса: Лишняя рамка ×2, Всё верно ×1. Комментарии ревьюеров: Лишняя рамка: Не бабочка | Лишняя рамка: Нет бабочки",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.107471,
+     "top": 0.246658,
+     "width": 0.822708,
+     "height": 0.559167
+    }
+   ],
+   "source": "team",
+   "review_votes": {
+    "extra": 2,
+    "ok": 1
+   },
+   "review_reason": "лишняя рамка — удалить",
+   "annotator": "Vova",
+   "image_width": 2048,
+   "image_height": 1536,
+   "updated_at": "2026-11-19T15:05:51.830Z"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/747271259/original.jpg",
+   "photo_id": 747271259,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.205557,
+     "top": 0.294175,
+     "width": 0.794443,
+     "height": 0.465922
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/747968402/original.jpg",
+   "photo_id": 747968402,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.149245,
+     "top": 0.219505,
+     "width": 0.616875,
+     "height": 0.48
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/751840376/original.jpg",
+   "photo_id": 751840376,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.323404,
+     "top": 0.273225,
+     "width": 0.381784,
+     "height": 0.271267
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 4
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/752186871/original.jpg",
+   "photo_id": 752186871,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.145299,
+     "top": 0.180417,
+     "width": 0.783287,
+     "height": 0.629167
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/752239769/original.jpg",
+   "photo_id": 752239769,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.24532,
+     "top": 0.37156,
+     "width": 0.406166,
+     "height": 0.180037
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/752519663/original.jpg",
+   "photo_id": 752519663,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.298097,
+     "top": 0.408047,
+     "width": 0.573333,
+     "height": 0.4
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/754122209/original.jpg",
+   "photo_id": 754122209,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.312798,
+     "top": 0.145,
+     "width": 0.447567,
+     "height": 0.68
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 4
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/754294149/original.jpg",
+   "photo_id": 754294149,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.098309,
+     "top": 0.05,
+     "width": 0.8198,
+     "height": 0.85
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 4
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/754463449/original.jpg",
+   "photo_id": 754463449,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.297748,
+     "top": 0.479381,
+     "width": 0.191901,
+     "height": 0.165682
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 2,
+    "box": 1
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/754651979/original.jpg",
+   "photo_id": 754651979,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.08,
+     "top": 0.1375,
+     "width": 0.8375,
+     "height": 0.485
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 4
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/754755936/original.jpg",
+   "photo_id": 754755936,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.125996,
+     "top": 0.238062,
+     "width": 0.77426,
+     "height": 0.444985
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/754757508/original.jpg",
+   "photo_id": 754757508,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.141912,
+     "top": 0.173153,
+     "width": 0.747884,
+     "height": 0.445833
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/754759274/original.jpg",
+   "photo_id": 754759274,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.200987,
+     "top": 0.227005,
+     "width": 0.656311,
+     "height": 0.5225
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/754773811/original.jpg",
+   "photo_id": 754773811,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.198462,
+     "top": 0.1475,
+     "width": 0.721173,
+     "height": 0.56
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/754775377/original.jpg",
+   "photo_id": 754775377,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.199529,
+     "top": 0.144697,
+     "width": 0.595686,
+     "height": 0.646779
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/755094110/original.jpg",
+   "photo_id": 755094110,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/755480689/original.jpg",
+   "photo_id": 755480689,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.194873,
+     "top": 0.236151,
+     "width": 0.661693,
+     "height": 0.625024
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 2,
+    "box": 1
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/755652611/original.jpg",
+   "photo_id": 755652611,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.258231,
+     "top": 0.149442,
+     "width": 0.486899,
+     "height": 0.519025
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/756487875/original.jpg",
+   "photo_id": 756487875,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.277974,
+     "top": 0.106249,
+     "width": 0.573286,
+     "height": 0.632839
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/757755826/original.jpg",
+   "photo_id": 757755826,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/757757208/original.jpg",
+   "photo_id": 757757208,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.173607,
+     "top": 0.0,
+     "width": 0.651026,
+     "height": 1.0
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/757764719/original.jpg",
+   "photo_id": 757764719,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.263021,
+     "top": 0.377005,
+     "width": 0.644059,
+     "height": 0.285
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/757765903/original.jpg",
+   "photo_id": 757765903,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "Подсказка: двое отметили неточную рамку — проверить левую границу. Почему здесь: неточная рамка, но ревьюеры её не подвинули — поправить. Голоса: Неточная рамка ×2, Всё верно ×1.",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.210251,
+     "top": 0.369416,
+     "width": 0.620895,
+     "height": 0.224063
+    }
+   ],
+   "source": "team",
+   "review_votes": {
+    "box": 2,
+    "ok": 1
+   },
+   "review_reason": "неточная рамка, но ревьюеры её не подвинули — поправить",
+   "annotator": "Vova",
+   "image_width": 946,
+   "image_height": 2048,
+   "updated_at": "2026-11-19T14:45:46.155Z"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/757812338/original.jpg",
+   "photo_id": 757812338,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.166754,
+     "top": 0.25862,
+     "width": 0.769232,
+     "height": 0.193372
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/757954774/original.jpg",
+   "photo_id": 757954774,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.036924,
+     "top": 0.0625,
+     "width": 0.963076,
+     "height": 0.830625
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/757960293/original.jpg",
+   "photo_id": 757960293,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.139193,
+     "top": 0.219505,
+     "width": 0.724292,
+     "height": 0.7425
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/757960401/original.jpg",
+   "photo_id": 757960401,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/758161076/original.jpg",
+   "photo_id": 758161076,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.0461,
+     "top": 0.255208,
+     "width": 0.858238,
+     "height": 0.508681
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/758400674/original.jpg",
+   "photo_id": 758400674,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.383807,
+     "top": 0.163097,
+     "width": 0.267198,
+     "height": 0.652525
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/758626739/original.jpg",
+   "photo_id": 758626739,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.092993,
+     "top": 0.337578,
+     "width": 0.76407,
+     "height": 0.499584
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 4
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/758718174/original.jpg",
+   "photo_id": 758718174,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "Подсказка: размытое пятно на стене — увеличить оригинал; если не видно бабочку, удалить рамку. Почему здесь: большинство «Всё верно», но кто-то указал лишнюю рамку — проверить. Голоса: Всё верно ×2, Лишняя рамка ×1. Комментарии ревьюеров: Лишняя рамка: единственная рамка",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.406535,
+     "top": 0.476146,
+     "width": 0.168639,
+     "height": 0.093754
+    }
+   ],
+   "source": "team",
+   "review_votes": {
+    "ok": 2,
+    "extra": 1
+   },
+   "review_reason": "большинство «Всё верно», но кто-то указал лишнюю рамку — проверить",
+   "annotator": "Vova",
+   "image_width": 761,
+   "image_height": 540,
+   "updated_at": "2026-11-19T14:46:01.894Z"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/758874265/original.jpg",
+   "photo_id": 758874265,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/759008377/original.jpg",
+   "photo_id": 759008377,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.073315,
+     "top": 0.2525,
+     "width": 0.521539,
+     "height": 0.495
+    },
+    {
+     "shape": "rectangle",
+     "left": 0.563196,
+     "top": 0.09,
+     "width": 0.351413,
+     "height": 0.665599
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/759044205/original.jpg",
+   "photo_id": 759044205,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.321956,
+     "top": 0.241707,
+     "width": 0.325441,
+     "height": 0.499132
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 2,
+    "box": 1
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/759182208/original.jpg",
+   "photo_id": 759182208,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.227817,
+     "top": 0.048562,
+     "width": 0.442166,
+     "height": 0.627532
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 4
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/759215578/original.jpg",
+   "photo_id": 759215578,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.299245,
+     "top": 0.244505,
+     "width": 0.361875,
+     "height": 0.5675
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/759256632/original.jpg",
+   "photo_id": 759256632,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.238923,
+     "top": 0.225,
+     "width": 0.554703,
+     "height": 0.57
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "box": 1,
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/759415174/original.jpg",
+   "photo_id": 759415174,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.253264,
+     "top": 0.197665,
+     "width": 0.625422,
+     "height": 0.478485
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/759425320/original.jpg",
+   "photo_id": 759425320,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.433139,
+     "top": 0.287866,
+     "width": 0.150869,
+     "height": 0.140039
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/759459429/original.jpg",
+   "photo_id": 759459429,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.374511,
+     "top": 0.174505,
+     "width": 0.358508,
+     "height": 0.3625
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 4
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/759524531/original.jpg",
+   "photo_id": 759524531,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/759668708/original.jpg",
+   "photo_id": 759668708,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.248364,
+     "top": 0.286053,
+     "width": 0.326003,
+     "height": 0.30816
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 4
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/759715161/original.jpg",
+   "photo_id": 759715161,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.268849,
+     "top": 0.282907,
+     "width": 0.327584,
+     "height": 0.53408
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/759852697/original.jpg",
+   "photo_id": 759852697,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.122031,
+     "top": 0.0,
+     "width": 0.712119,
+     "height": 0.782926
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 2,
+    "box": 1
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/759926221/original.jpg",
+   "photo_id": 759926221,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.215825,
+     "top": 0.305396,
+     "width": 0.508502,
+     "height": 0.499207
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/760063494/original.jpg",
+   "photo_id": 760063494,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.046214,
+     "top": 0.080832,
+     "width": 0.915714,
+     "height": 0.862685
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 2,
+    "box": 1
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/760082940/original.jpg",
+   "photo_id": 760082940,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/760131117/original.jpg",
+   "photo_id": 760131117,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/760331613/original.jpg",
+   "photo_id": 760331613,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 4
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/760446257/original.jpg",
+   "photo_id": 760446257,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.004189,
+     "top": 0.0,
+     "width": 0.995811,
+     "height": 0.913789
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/760524137/original.jpg",
+   "photo_id": 760524137,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.378163,
+     "top": 0.26,
+     "width": 0.313516,
+     "height": 0.428819
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/760581893/original.jpg",
+   "photo_id": 760581893,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.181034,
+     "top": 0.06,
+     "width": 0.606997,
+     "height": 0.7825
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 4
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/760582391/original.jpg",
+   "photo_id": 760582391,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.107097,
+     "top": 0.1025,
+     "width": 0.687801,
+     "height": 0.765
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/760759513/original.jpg",
+   "photo_id": 760759513,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "Подсказка: похоже, одна бабочка с крыльями в разные стороны — заменить две рамки одной на всю бабочку. Почему здесь: лишняя рамка — удалить. Голоса: Лишняя рамка ×3. Комментарии ревьюеров: Лишняя рамка: Обе рамки не содержат в себе полноценный образ бабочки | Лишняя рамка: нижняя рамка лишняя, на фото одна бабочка | Лишняя рамка: две рамки на одну бабочку",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.157503,
+     "top": 0.292998,
+     "width": 0.552935,
+     "height": 0.449062
+    }
+   ],
+   "source": "team",
+   "review_votes": {
+    "extra": 3
+   },
+   "review_reason": "лишняя рамка — удалить",
+   "annotator": "Vova",
+   "image_width": 1536,
+   "image_height": 2048,
+   "updated_at": "2026-11-19T14:42:46.713Z"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761013096/original.jpg",
+   "photo_id": 761013096,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.161605,
+     "top": 0.160597,
+     "width": 0.623392,
+     "height": 0.742529
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761021296/original.jpg",
+   "photo_id": 761021296,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.208862,
+     "top": 0.2575,
+     "width": 0.73006,
+     "height": 0.66
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761033047/original.jpg",
+   "photo_id": 761033047,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.158831,
+     "top": 0.209505,
+     "width": 0.581826,
+     "height": 0.5625
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761036691/original.jpg",
+   "photo_id": 761036691,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.390571,
+     "top": 0.366105,
+     "width": 0.175331,
+     "height": 0.224599
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761038352/original.jpg",
+   "photo_id": 761038352,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.127075,
+     "top": 0.212005,
+     "width": 0.612955,
+     "height": 0.5575
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761134956/original.jpg",
+   "photo_id": 761134956,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.07959,
+     "top": 0.052005,
+     "width": 0.669375,
+     "height": 0.84
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761135011/original.jpg",
+   "photo_id": 761135011,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.187635,
+     "top": 0.120547,
+     "width": 0.43875,
+     "height": 0.6175
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761343247/original.jpg",
+   "photo_id": 761343247,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.310693,
+     "top": 0.3275,
+     "width": 0.282953,
+     "height": 0.4825
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761344674/original.jpg",
+   "photo_id": 761344674,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.24563,
+     "top": 0.289641,
+     "width": 0.294709,
+     "height": 0.461516
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761344677/original.jpg",
+   "photo_id": 761344677,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.46061,
+     "top": 0.279505,
+     "width": 0.279849,
+     "height": 0.3975
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761346789/original.jpg",
+   "photo_id": 761346789,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.270459,
+     "top": 0.324709,
+     "width": 0.30485,
+     "height": 0.434028
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761346797/original.jpg",
+   "photo_id": 761346797,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.31388,
+     "top": 0.374525,
+     "width": 0.245226,
+     "height": 0.36603
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 4
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761346822/original.jpg",
+   "photo_id": 761346822,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.405767,
+     "top": 0.338726,
+     "width": 0.238615,
+     "height": 0.393505
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761346841/original.jpg",
+   "photo_id": 761346841,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.311265,
+     "top": 0.31,
+     "width": 0.399648,
+     "height": 0.53
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761346884/original.jpg",
+   "photo_id": 761346884,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.276298,
+     "top": 0.319896,
+     "width": 0.342025,
+     "height": 0.383391
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761346897/original.jpg",
+   "photo_id": 761346897,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.332575,
+     "top": 0.311854,
+     "width": 0.32867,
+     "height": 0.384597
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761352303/original.jpg",
+   "photo_id": 761352303,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.381429,
+     "top": 0.370547,
+     "width": 0.245625,
+     "height": 0.265
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 4
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761352310/original.jpg",
+   "photo_id": 761352310,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.311362,
+     "top": 0.278555,
+     "width": 0.349086,
+     "height": 0.473462
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761352364/original.jpg",
+   "photo_id": 761352364,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.301178,
+     "top": 0.225,
+     "width": 0.368347,
+     "height": 0.4925
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761352377/original.jpg",
+   "photo_id": 761352377,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.454173,
+     "top": 0.421405,
+     "width": 0.09733,
+     "height": 0.120563
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761352384/original.jpg",
+   "photo_id": 761352384,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.341499,
+     "top": 0.325058,
+     "width": 0.283262,
+     "height": 0.389178
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761354483/original.jpg",
+   "photo_id": 761354483,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.295166,
+     "top": 0.265,
+     "width": 0.448425,
+     "height": 0.4425
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761383646/original.jpg",
+   "photo_id": 761383646,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.311684,
+     "top": 0.284505,
+     "width": 0.324762,
+     "height": 0.425
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761457401/original.jpg",
+   "photo_id": 761457401,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.189301,
+     "top": 0.078125,
+     "width": 0.762998,
+     "height": 0.875
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761460939/original.jpg",
+   "photo_id": 761460939,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.253931,
+     "top": 0.313093,
+     "width": 0.553512,
+     "height": 0.331409
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761467572/original.jpg",
+   "photo_id": 761467572,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.323716,
+     "top": 0.075,
+     "width": 0.357349,
+     "height": 0.7775
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761471166/original.jpg",
+   "photo_id": 761471166,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.093659,
+     "top": 0.355,
+     "width": 0.847387,
+     "height": 0.3875
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761472486/original.jpg",
+   "photo_id": 761472486,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.239164,
+     "top": 0.210547,
+     "width": 0.471312,
+     "height": 0.6225
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761476198/original.jpg",
+   "photo_id": 761476198,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.193738,
+     "top": 0.215772,
+     "width": 0.497981,
+     "height": 0.57569
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761476521/original.jpg",
+   "photo_id": 761476521,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.185861,
+     "top": 0.190547,
+     "width": 0.646062,
+     "height": 0.61
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761476956/original.jpg",
+   "photo_id": 761476956,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.12994,
+     "top": 0.127149,
+     "width": 0.651708,
+     "height": 0.717728
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761478127/original.jpg",
+   "photo_id": 761478127,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.20197,
+     "top": 0.13,
+     "width": 0.676933,
+     "height": 0.66
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 2,
+    "box": 1
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761478435/original.jpg",
+   "photo_id": 761478435,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.197074,
+     "top": 0.127081,
+     "width": 0.636836,
+     "height": 0.752426
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761479744/original.jpg",
+   "photo_id": 761479744,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.218855,
+     "top": 0.1775,
+     "width": 0.553976,
+     "height": 0.665
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761480934/original.jpg",
+   "photo_id": 761480934,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.132517,
+     "top": 0.253047,
+     "width": 0.631293,
+     "height": 0.4625
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761481875/original.jpg",
+   "photo_id": 761481875,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.152578,
+     "top": 0.210318,
+     "width": 0.688282,
+     "height": 0.59086
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761483634/original.jpg",
+   "photo_id": 761483634,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.183028,
+     "top": 0.2825,
+     "width": 0.423389,
+     "height": 0.5825
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761484080/original.jpg",
+   "photo_id": 761484080,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.163082,
+     "top": 0.285,
+     "width": 0.627557,
+     "height": 0.466667
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761486404/original.jpg",
+   "photo_id": 761486404,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.143925,
+     "top": 0.166148,
+     "width": 0.602957,
+     "height": 0.557522
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761501155/original.jpg",
+   "photo_id": 761501155,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.04,
+     "top": 0.41,
+     "width": 0.706667,
+     "height": 0.375
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 2,
+    "box": 1
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761502814/original.jpg",
+   "photo_id": 761502814,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.072907,
+     "top": 0.043891,
+     "width": 0.815519,
+     "height": 0.890072
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761504261/original.jpg",
+   "photo_id": 761504261,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.227795,
+     "top": 0.493859,
+     "width": 0.687398,
+     "height": 0.323327
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 2
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761513354/original.jpg",
+   "photo_id": 761513354,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.283333,
+     "top": 0.215,
+     "width": 0.536667,
+     "height": 0.31
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761545798/original.jpg",
+   "photo_id": 761545798,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.035892,
+     "top": 0.365314,
+     "width": 0.531651,
+     "height": 0.40711
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761582085/original.jpg",
+   "photo_id": 761582085,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.225825,
+     "top": 0.420547,
+     "width": 0.525256,
+     "height": 0.39
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761614361/original.jpg",
+   "photo_id": 761614361,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.225889,
+     "top": 0.227948,
+     "width": 0.626836,
+     "height": 0.558665
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761660395/original.jpg",
+   "photo_id": 761660395,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.268273,
+     "top": 0.292308,
+     "width": 0.340295,
+     "height": 0.233025
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761663054/original.jpg",
+   "photo_id": 761663054,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.160539,
+     "top": 0.377085,
+     "width": 0.571624,
+     "height": 0.262308
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761673791/original.jpg",
+   "photo_id": 761673791,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.3887,
+     "top": 0.281522,
+     "width": 0.166325,
+     "height": 0.356906
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761716550/original.jpg",
+   "photo_id": 761716550,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.437434,
+     "top": 0.272005,
+     "width": 0.508041,
+     "height": 0.3525
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761716911/original.jpg",
+   "photo_id": 761716911,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.377631,
+     "top": 0.471499,
+     "width": 0.333037,
+     "height": 0.210009
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761718646/original.jpg",
+   "photo_id": 761718646,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761722609/original.jpg",
+   "photo_id": 761722609,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761724006/original.jpg",
+   "photo_id": 761724006,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.379635,
+     "top": 0.334666,
+     "width": 0.143433,
+     "height": 0.215808
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761729653/original.jpg",
+   "photo_id": 761729653,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.297194,
+     "top": 0.149505,
+     "width": 0.406,
+     "height": 0.455
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761729775/original.jpg",
+   "photo_id": 761729775,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.473222,
+     "top": 0.216855,
+     "width": 0.313465,
+     "height": 0.429507
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 4
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761729799/original.jpg",
+   "photo_id": 761729799,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.189563,
+     "top": 0.319902,
+     "width": 0.513084,
+     "height": 0.425441
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 2,
+    "box": 1
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761731379/original.jpg",
+   "photo_id": 761731379,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761739870/original.jpg",
+   "photo_id": 761739870,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.216,
+     "top": 0.28,
+     "width": 0.544,
+     "height": 0.5725
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761761078/original.jpg",
+   "photo_id": 761761078,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.193194,
+     "top": 0.192005,
+     "width": 0.592,
+     "height": 0.6
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761770628/original.jpg",
+   "photo_id": 761770628,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.467608,
+     "top": 0.228414,
+     "width": 0.291383,
+     "height": 0.186236
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761773132/original.jpg",
+   "photo_id": 761773132,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.229194,
+     "top": 0.242005,
+     "width": 0.366,
+     "height": 0.4275
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761781835/original.jpg",
+   "photo_id": 761781835,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "Подсказка: ночная бабочка (моль), рамка выглядит верной — скорее всего оставить как есть. Почему здесь: нет большинства — решить самим. Голоса: Неточная рамка ×2, Всё верно ×2.",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.219282,
+     "top": 0.214034,
+     "width": 0.472838,
+     "height": 0.504212
+    }
+   ],
+   "source": "team",
+   "review_votes": {
+    "box": 2,
+    "ok": 2
+   },
+   "review_reason": "нет большинства — решить самим",
+   "annotator": "Vova",
+   "image_width": 1236,
+   "image_height": 1275,
+   "updated_at": "2026-11-19T14:47:16.486Z"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761793314/original.jpg",
+   "photo_id": 761793314,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761800380/original.jpg",
+   "photo_id": 761800380,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 5
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761800430/original.jpg",
+   "photo_id": 761800430,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.331222,
+     "top": 0.160417,
+     "width": 0.318056,
+     "height": 0.609375
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761832174/original.jpg",
+   "photo_id": 761832174,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.041432,
+     "top": 0.165,
+     "width": 0.662917,
+     "height": 0.4825
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761832556/original.jpg",
+   "photo_id": 761832556,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.136181,
+     "top": 0.27,
+     "width": 0.704028,
+     "height": 0.505
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761832731/original.jpg",
+   "photo_id": 761832731,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.382732,
+     "top": 0.441209,
+     "width": 0.286459,
+     "height": 0.26232
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761834976/original.jpg",
+   "photo_id": 761834976,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.238743,
+     "top": 0.248333,
+     "width": 0.485975,
+     "height": 0.542074
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761838259/original.jpg",
+   "photo_id": 761838259,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.337946,
+     "top": 0.327014,
+     "width": 0.379712,
+     "height": 0.25669
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761853118/original.jpg",
+   "photo_id": 761853118,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761863058/original.jpg",
+   "photo_id": 761863058,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761869092/original.jpg",
+   "photo_id": 761869092,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.304435,
+     "top": 0.209201,
+     "width": 0.380779,
+     "height": 0.298394
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761875876/original.jpg",
+   "photo_id": 761875876,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761882503/original.jpg",
+   "photo_id": 761882503,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.217235,
+     "top": 0.049505,
+     "width": 0.564428,
+     "height": 0.82
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761883601/original.jpg",
+   "photo_id": 761883601,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761887706/original.jpg",
+   "photo_id": 761887706,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.155468,
+     "top": 0.308259,
+     "width": 0.697694,
+     "height": 0.547056
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3,
+    "box": 1
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761915126/original.jpg",
+   "photo_id": 761915126,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.230526,
+     "top": 0.481289,
+     "width": 0.440302,
+     "height": 0.263689
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761918617/original.jpg",
+   "photo_id": 761918617,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761921435/original.jpg",
+   "photo_id": 761921435,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.372751,
+     "top": 0.514504,
+     "width": 0.283442,
+     "height": 0.127549
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761921826/original.jpg",
+   "photo_id": 761921826,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.136778,
+     "top": 0.289901,
+     "width": 0.492531,
+     "height": 0.50539
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761927370/original.jpg",
+   "photo_id": 761927370,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.262449,
+     "top": 0.448855,
+     "width": 0.21388,
+     "height": 0.148729
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761939315/original.jpg",
+   "photo_id": 761939315,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.213882,
+     "top": 0.1925,
+     "width": 0.639346,
+     "height": 0.585
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761939431/original.jpg",
+   "photo_id": 761939431,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.314141,
+     "top": 0.250793,
+     "width": 0.381979,
+     "height": 0.450686
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 2,
+    "extra": 1
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761939510/original.jpg",
+   "photo_id": 761939510,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.45035,
+     "top": 0.431737,
+     "width": 0.144271,
+     "height": 0.152182
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3,
+    "box": 1
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761940682/original.jpg",
+   "photo_id": 761940682,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.226067,
+     "top": 0.207118,
+     "width": 0.563571,
+     "height": 0.51919
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 4
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761945019/original.jpg",
+   "photo_id": 761945019,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.206141,
+     "top": 0.32,
+     "width": 0.485367,
+     "height": 0.5175
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761945708/original.jpg",
+   "photo_id": 761945708,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.33,
+     "top": 0.1425,
+     "width": 0.4425,
+     "height": 0.585
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761945992/original.jpg",
+   "photo_id": 761945992,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.37237,
+     "top": 0.269505,
+     "width": 0.305625,
+     "height": 0.4725
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761948349/original.jpg",
+   "photo_id": 761948349,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.124143,
+     "top": 0.17928,
+     "width": 0.735419,
+     "height": 0.508324
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761958522/original.jpg",
+   "photo_id": 761958522,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.324894,
+     "top": 0.366456,
+     "width": 0.403569,
+     "height": 0.235605
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761958523/original.jpg",
+   "photo_id": 761958523,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.366344,
+     "top": 0.376369,
+     "width": 0.268425,
+     "height": 0.140936
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761960813/original.jpg",
+   "photo_id": 761960813,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.0,
+     "top": 0.307491,
+     "width": 0.884763,
+     "height": 0.500556
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761968869/original.jpg",
+   "photo_id": 761968869,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762003352/original.jpg",
+   "photo_id": 762003352,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762036277/original.jpg",
+   "photo_id": 762036277,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.533558,
+     "top": 0.273133,
+     "width": 0.165349,
+     "height": 0.194051
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762052670/original.jpg",
+   "photo_id": 762052670,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762059095/original.jpg",
+   "photo_id": 762059095,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.096959,
+     "top": 0.146226,
+     "width": 0.748697,
+     "height": 0.715736
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762098330/original.jpg",
+   "photo_id": 762098330,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "Подсказка: пропущена толстоголовка на одуванчике — нарисовать рамку. Почему здесь: пропущена бабочка — дорисовать рамку. Голоса: Пропущена бабочка ×3, Всё верно ×1.",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.292093,
+     "top": 0.082647,
+     "width": 0.492928,
+     "height": 0.638288
+    }
+   ],
+   "source": "team",
+   "review_votes": {
+    "missed": 3,
+    "ok": 1
+   },
+   "review_reason": "пропущена бабочка — дорисовать рамку",
+   "annotator": "Vova",
+   "image_width": 1954,
+   "image_height": 2048,
+   "updated_at": "2026-11-19T14:43:06.575Z"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762098881/original.jpg",
+   "photo_id": 762098881,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.319873,
+     "top": 0.351033,
+     "width": 0.306835,
+     "height": 0.334026
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "box": 1,
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762100611/original.jpg",
+   "photo_id": 762100611,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.181676,
+     "top": 0.311269,
+     "width": 0.651935,
+     "height": 0.348629
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762105008/original.jpg",
+   "photo_id": 762105008,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.382174,
+     "top": 0.341761,
+     "width": 0.316706,
+     "height": 0.272225
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 2,
+    "box": 1
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762122255/original.jpg",
+   "photo_id": 762122255,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.579166,
+     "top": 0.513253,
+     "width": 0.127993,
+     "height": 0.097495
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762125600/original.jpg",
+   "photo_id": 762125600,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.314382,
+     "top": 0.326345,
+     "width": 0.331824,
+     "height": 0.318812
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762138814/original.jpg",
+   "photo_id": 762138814,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.155618,
+     "top": 0.20054,
+     "width": 0.3014,
+     "height": 0.214762
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 2,
+    "box": 1
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762144892/original.jpg",
+   "photo_id": 762144892,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.411422,
+     "top": 0.461341,
+     "width": 0.11207,
+     "height": 0.169542
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762191645/original.jpg",
+   "photo_id": 762191645,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.024784,
+     "top": 0.029505,
+     "width": 0.946734,
+     "height": 0.9125
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762197262/original.jpg",
+   "photo_id": 762197262,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.234327,
+     "top": 0.291227,
+     "width": 0.497761,
+     "height": 0.465374
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762198233/original.jpg",
+   "photo_id": 762198233,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762199511/original.jpg",
+   "photo_id": 762199511,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762201154/original.jpg",
+   "photo_id": 762201154,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762210333/original.jpg",
+   "photo_id": 762210333,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.283181,
+     "top": 0.227005,
+     "width": 0.539023,
+     "height": 0.52
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762234779/original.jpg",
+   "photo_id": 762234779,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.101003,
+     "top": 0.078094,
+     "width": 0.828735,
+     "height": 0.875034
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762235232/original.jpg",
+   "photo_id": 762235232,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.195789,
+     "top": 0.095,
+     "width": 0.67585,
+     "height": 0.7925
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 2,
+    "extra": 1
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762240560/original.jpg",
+   "photo_id": 762240560,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.3125,
+     "top": 0.0,
+     "width": 0.487078,
+     "height": 0.919436
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 5
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762240768/original.jpg",
+   "photo_id": 762240768,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.412718,
+     "top": 0.284168,
+     "width": 0.314398,
+     "height": 0.22954
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762240961/original.jpg",
+   "photo_id": 762240961,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.446708,
+     "top": 0.237292,
+     "width": 0.315072,
+     "height": 0.258005
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 4
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762241503/original.jpg",
+   "photo_id": 762241503,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.222222,
+     "top": 0.3125,
+     "width": 0.755556,
+     "height": 0.365
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762246815/original.jpg",
+   "photo_id": 762246815,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.377536,
+     "top": 0.355862,
+     "width": 0.272979,
+     "height": 0.208221
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "box": 1,
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762264076/original.jpg",
+   "photo_id": 762264076,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.319666,
+     "top": 0.297005,
+     "width": 0.427324,
+     "height": 0.4475
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "box": 1,
+    "ok": 2
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762270198/original.jpg",
+   "photo_id": 762270198,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.470279,
+     "top": 0.428375,
+     "width": 0.105876,
+     "height": 0.098586
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762277068/original.jpg",
+   "photo_id": 762277068,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.310066,
+     "top": 0.2625,
+     "width": 0.628842,
+     "height": 0.6225
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762287153/original.jpg",
+   "photo_id": 762287153,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.249461,
+     "top": 0.295688,
+     "width": 0.348864,
+     "height": 0.516737
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762322057/original.jpg",
+   "photo_id": 762322057,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.158444,
+     "top": 0.106698,
+     "width": 0.434558,
+     "height": 0.712529
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762322081/original.jpg",
+   "photo_id": 762322081,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.185491,
+     "top": 0.417005,
+     "width": 0.430095,
+     "height": 0.3475
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 4
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762322566/original.jpg",
+   "photo_id": 762322566,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.402267,
+     "top": 0.441954,
+     "width": 0.188044,
+     "height": 0.162058
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762333038/original.jpg",
+   "photo_id": 762333038,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.34125,
+     "top": 0.14,
+     "width": 0.31125,
+     "height": 0.645
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 4
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762339108/original.jpg",
+   "photo_id": 762339108,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.416354,
+     "top": 0.294826,
+     "width": 0.230035,
+     "height": 0.36169
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762347496/original.jpg",
+   "photo_id": 762347496,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.260598,
+     "top": 0.401256,
+     "width": 0.432577,
+     "height": 0.231551
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762351486/original.jpg",
+   "photo_id": 762351486,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762357529/original.jpg",
+   "photo_id": 762357529,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762360257/original.jpg",
+   "photo_id": 762360257,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.105136,
+     "top": 0.201997,
+     "width": 0.763717,
+     "height": 0.616204
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762373286/original.jpg",
+   "photo_id": 762373286,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.450407,
+     "top": 0.317676,
+     "width": 0.437848,
+     "height": 0.228149
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762375772/original.jpg",
+   "photo_id": 762375772,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762411542/original.jpg",
+   "photo_id": 762411542,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762412869/original.jpg",
+   "photo_id": 762412869,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762418100/original.jpg",
+   "photo_id": 762418100,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.058438,
+     "top": 0.089844,
+     "width": 0.941562,
+     "height": 0.898438
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 2,
+    "box": 1
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762421600/original.jpg",
+   "photo_id": 762421600,
+   "status": "empty",
+   "doubt": false,
+   "comment": "Подсказка: жёлтые листья, рамок нет; один ревьюер нашёл бабочку — внимательно осмотреть. Почему здесь: большинство «Всё верно», но кто-то нашёл пропущенную бабочку — проверить. Голоса: Всё верно ×2, Пропущена бабочка ×1.",
+   "result": [],
+   "source": "team",
+   "review_votes": {
+    "ok": 2,
+    "missed": 1
+   },
+   "review_reason": "большинство «Всё верно», но кто-то нашёл пропущенную бабочку — проверить",
+   "annotator": "Vova",
+   "image_width": 1536,
+   "image_height": 2048,
+   "updated_at": "2026-11-19T14:46:13.740Z"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762437020/original.jpg",
+   "photo_id": 762437020,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762445055/original.jpg",
+   "photo_id": 762445055,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "Подсказка: одна бабочка, две рамки — удалить меньшую рамку 1. Почему здесь: лишняя рамка — удалить. Голоса: Лишняя рамка ×2, Всё верно ×1. Комментарии ревьюеров: Лишняя рамка: Две рамки | Лишняя рамка: Лишняя рамка в рамке с бабочкой",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.032787,
+     "top": 0.131895,
+     "width": 0.875284,
+     "height": 0.669414
+    }
+   ],
+   "source": "team",
+   "review_votes": {
+    "extra": 2,
+    "ok": 1
+   },
+   "review_reason": "лишняя рамка — удалить",
+   "annotator": "Vova",
+   "image_width": 1115,
+   "image_height": 534,
+   "updated_at": "2026-11-19T14:43:43.392Z"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762445761/original.jpg",
+   "photo_id": 762445761,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 2
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762446543/original.jpg",
+   "photo_id": 762446543,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 4
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762447322/original.jpg",
+   "photo_id": 762447322,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762448002/original.jpg",
+   "photo_id": 762448002,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 4
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762449856/original.jpg",
+   "photo_id": 762449856,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.375823,
+     "top": 0.274814,
+     "width": 0.246485,
+     "height": 0.250169
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762452678/original.jpg",
+   "photo_id": 762452678,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.048335,
+     "top": 0.265,
+     "width": 0.857416,
+     "height": 0.5375
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762453423/original.jpg",
+   "photo_id": 762453423,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.384141,
+     "top": 0.211677,
+     "width": 0.444684,
+     "height": 0.310512
+    },
+    {
+     "shape": "rectangle",
+     "left": 0.205611,
+     "top": 0.278215,
+     "width": 0.385539,
+     "height": 0.317084
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "box": 1,
+    "ok": 2
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762453524/original.jpg",
+   "photo_id": 762453524,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.0378,
+     "top": 0.072005,
+     "width": 0.891845,
+     "height": 0.8625
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762454619/original.jpg",
+   "photo_id": 762454619,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.031434,
+     "top": 0.044505,
+     "width": 0.939167,
+     "height": 0.95
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762456614/original.jpg",
+   "photo_id": 762456614,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762469277/original.jpg",
+   "photo_id": 762469277,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.222639,
+     "top": 0.120547,
+     "width": 0.545323,
+     "height": 0.6125
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762470053/original.jpg",
+   "photo_id": 762470053,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762470347/original.jpg",
+   "photo_id": 762470347,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762475327/original.jpg",
+   "photo_id": 762475327,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.196471,
+     "top": 0.22534,
+     "width": 0.504356,
+     "height": 0.415943
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762478587/original.jpg",
+   "photo_id": 762478587,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.143268,
+     "top": 0.159765,
+     "width": 0.625068,
+     "height": 0.626175
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762478784/original.jpg",
+   "photo_id": 762478784,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 4
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762480207/original.jpg",
+   "photo_id": 762480207,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 4
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762482777/original.jpg",
+   "photo_id": 762482777,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 4
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762484902/original.jpg",
+   "photo_id": 762484902,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762484992/original.jpg",
+   "photo_id": 762484992,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762487580/original.jpg",
+   "photo_id": 762487580,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 5
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762491449/original.jpg",
+   "photo_id": 762491449,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762502750/original.jpg",
+   "photo_id": 762502750,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 4
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762511082/original.jpg",
+   "photo_id": 762511082,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.113453,
+     "top": 0.141412,
+     "width": 0.884934,
+     "height": 0.661892
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 4
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762515130/original.jpg",
+   "photo_id": 762515130,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762515909/original.jpg",
+   "photo_id": 762515909,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762517549/original.jpg",
+   "photo_id": 762517549,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.278108,
+     "top": 0.361703,
+     "width": 0.142081,
+     "height": 0.123448
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762517553/original.jpg",
+   "photo_id": 762517553,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.482564,
+     "top": 0.184327,
+     "width": 0.168186,
+     "height": 0.236304
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 2,
+    "box": 1
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762517911/original.jpg",
+   "photo_id": 762517911,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.147599,
+     "top": 0.460294,
+     "width": 0.170672,
+     "height": 0.313465
+    },
+    {
+     "shape": "rectangle",
+     "left": 0.286623,
+     "top": 0.470843,
+     "width": 0.264486,
+     "height": 0.321
+    },
+    {
+     "shape": "rectangle",
+     "left": 0.438081,
+     "top": 0.543181,
+     "width": 0.300655,
+     "height": 0.331549
+    },
+    {
+     "shape": "rectangle",
+     "left": 0.88416,
+     "top": 0.301707,
+     "width": 0.087758,
+     "height": 0.253063
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 2
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762517963/original.jpg",
+   "photo_id": 762517963,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "Подсказка: маленькая бабочка в траве, рамка верная — скорее всего оставить. Почему здесь: большинство «Всё верно», но кто-то указал лишнюю рамку — проверить. Голоса: Всё верно ×2, Лишняя рамка ×1. Комментарии ревьюеров: Лишняя рамка: единственная рамка",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.259791,
+     "top": 0.295149,
+     "width": 0.249823,
+     "height": 0.208153
+    }
+   ],
+   "source": "team",
+   "review_votes": {
+    "ok": 2,
+    "extra": 1
+   },
+   "review_reason": "большинство «Всё верно», но кто-то указал лишнюю рамку — проверить",
+   "annotator": "Vova",
+   "image_width": 2048,
+   "image_height": 1536,
+   "updated_at": "2026-11-19T14:47:30.448Z"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762525008/original.jpg",
+   "photo_id": 762525008,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762534292/original.jpg",
+   "photo_id": 762534292,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.29747,
+     "top": 0.154991,
+     "width": 0.519599,
+     "height": 0.800556
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762535250/original.jpg",
+   "photo_id": 762535250,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762536519/original.jpg",
+   "photo_id": 762536519,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.402317,
+     "top": 0.514383,
+     "width": 0.235193,
+     "height": 0.174123
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762537101/original.jpg",
+   "photo_id": 762537101,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762538109/original.jpg",
+   "photo_id": 762538109,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.264763,
+     "top": 0.263047,
+     "width": 0.403333,
+     "height": 0.375
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762545786/original.jpg",
+   "photo_id": 762545786,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762557330/original.jpg",
+   "photo_id": 762557330,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762558441/original.jpg",
+   "photo_id": 762558441,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.07221,
+     "top": 0.041914,
+     "width": 0.849448,
+     "height": 0.927734
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762559176/original.jpg",
+   "photo_id": 762559176,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762560053/original.jpg",
+   "photo_id": 762560053,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762560092/original.jpg",
+   "photo_id": 762560092,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.206633,
+     "top": 0.144519,
+     "width": 0.502347,
+     "height": 0.483509
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762560135/original.jpg",
+   "photo_id": 762560135,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762571409/original.jpg",
+   "photo_id": 762571409,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762585816/original.jpg",
+   "photo_id": 762585816,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 4
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762589512/original.jpg",
+   "photo_id": 762589512,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.228278,
+     "top": 0.23,
+     "width": 0.491547,
+     "height": 0.49
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762591214/original.jpg",
+   "photo_id": 762591214,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762592878/original.jpg",
+   "photo_id": 762592878,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762594197/original.jpg",
+   "photo_id": 762594197,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762594300/original.jpg",
+   "photo_id": 762594300,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762594620/original.jpg",
+   "photo_id": 762594620,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762595951/original.jpg",
+   "photo_id": 762595951,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762596220/original.jpg",
+   "photo_id": 762596220,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.447465,
+     "top": 0.415414,
+     "width": 0.171834,
+     "height": 0.186154
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762596321/original.jpg",
+   "photo_id": 762596321,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762598069/original.jpg",
+   "photo_id": 762598069,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762598738/original.jpg",
+   "photo_id": 762598738,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "Подсказка: крупная моль, рамка верная, пропуска не видно — скорее всего оставить. Почему здесь: большинство «Всё верно», но кто-то нашёл пропущенную бабочку — проверить. Голоса: Всё верно ×2, Пропущена бабочка ×1.",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.077269,
+     "top": 0.006569,
+     "width": 0.776577,
+     "height": 0.917531
+    }
+   ],
+   "source": "team",
+   "review_votes": {
+    "missed": 1,
+    "ok": 2
+   },
+   "review_reason": "большинство «Всё верно», но кто-то нашёл пропущенную бабочку — проверить",
+   "annotator": "Vova",
+   "image_width": 1536,
+   "image_height": 2048,
+   "updated_at": "2026-11-19T14:47:37.037Z"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762602212/original.jpg",
+   "photo_id": 762602212,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.371948,
+     "top": 0.361399,
+     "width": 0.520521,
+     "height": 0.227061
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762603703/original.jpg",
+   "photo_id": 762603703,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762604093/original.jpg",
+   "photo_id": 762604093,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762604632/original.jpg",
+   "photo_id": 762604632,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 4
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762604716/original.jpg",
+   "photo_id": 762604716,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.194511,
+     "top": 0.229091,
+     "width": 0.531223,
+     "height": 0.520535
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762610092/original.jpg",
+   "photo_id": 762610092,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762610654/original.jpg",
+   "photo_id": 762610654,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762613770/original.jpg",
+   "photo_id": 762613770,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.429896,
+     "top": 0.297569,
+     "width": 0.210938,
+     "height": 0.407986
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762613968/original.jpg",
+   "photo_id": 762613968,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.332422,
+     "top": 0.250546,
+     "width": 0.30984,
+     "height": 0.401878
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762614145/original.jpg",
+   "photo_id": 762614145,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762614550/original.jpg",
+   "photo_id": 762614550,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762614830/original.jpg",
+   "photo_id": 762614830,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762615334/original.jpg",
+   "photo_id": 762615334,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762616763/original.jpg",
+   "photo_id": 762616763,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 4
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762622379/original.jpg",
+   "photo_id": 762622379,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.297539,
+     "top": 0.031563,
+     "width": 0.506836,
+     "height": 0.925781
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 2
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762622634/original.jpg",
+   "photo_id": 762622634,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.215504,
+     "top": 0.139991,
+     "width": 0.607037,
+     "height": 0.757778
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762623221/original.jpg",
+   "photo_id": 762623221,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762623917/original.jpg",
+   "photo_id": 762623917,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 4
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762626192/original.jpg",
+   "photo_id": 762626192,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762628762/original.jpg",
+   "photo_id": 762628762,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.065626,
+     "top": 0.043953,
+     "width": 0.743725,
+     "height": 0.904225
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762629038/original.jpg",
+   "photo_id": 762629038,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762630328/original.jpg",
+   "photo_id": 762630328,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762631844/original.jpg",
+   "photo_id": 762631844,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.263072,
+     "top": 0.145035,
+     "width": 0.379715,
+     "height": 0.460069
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 2
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762633341/original.jpg",
+   "photo_id": 762633341,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.197995,
+     "top": 0.224505,
+     "width": 0.49875,
+     "height": 0.4525
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762634925/original.jpg",
+   "photo_id": 762634925,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762634996/original.jpg",
+   "photo_id": 762634996,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762636731/original.jpg",
+   "photo_id": 762636731,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762638503/original.jpg",
+   "photo_id": 762638503,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762640577/original.jpg",
+   "photo_id": 762640577,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762641693/original.jpg",
+   "photo_id": 762641693,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 5
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762641966/original.jpg",
+   "photo_id": 762641966,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "Подсказка: пропущена жёлто-оранжевая бабочка в центре — нарисовать рамку. Почему здесь: пропущена бабочка — дорисовать рамку. Голоса: Пропущена бабочка ×3.",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.239705,
+     "top": 0.336188,
+     "width": 0.381245,
+     "height": 0.279511
+    }
+   ],
+   "source": "team",
+   "review_votes": {
+    "missed": 3
+   },
+   "review_reason": "пропущена бабочка — дорисовать рамку",
+   "annotator": "Vova",
+   "image_width": 1152,
+   "image_height": 2048,
+   "updated_at": "2026-11-19T14:44:02.530Z"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762642678/original.jpg",
+   "photo_id": 762642678,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762645146/original.jpg",
+   "photo_id": 762645146,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762646085/original.jpg",
+   "photo_id": 762646085,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 4
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762648669/original.jpg",
+   "photo_id": 762648669,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.144763,
+     "top": 0.293047,
+     "width": 0.446667,
+     "height": 0.4175
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762648878/original.jpg",
+   "photo_id": 762648878,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762649210/original.jpg",
+   "photo_id": 762649210,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762650278/original.jpg",
+   "photo_id": 762650278,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762652988/original.jpg",
+   "photo_id": 762652988,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762655060/original.jpg",
+   "photo_id": 762655060,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.317968,
+     "top": 0.427787,
+     "width": 0.223444,
+     "height": 0.245949
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762656829/original.jpg",
+   "photo_id": 762656829,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762656846/original.jpg",
+   "photo_id": 762656846,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762656987/original.jpg",
+   "photo_id": 762656987,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762657101/original.jpg",
+   "photo_id": 762657101,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 4
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762657328/original.jpg",
+   "photo_id": 762657328,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 4
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762657402/original.jpg",
+   "photo_id": 762657402,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762657564/original.jpg",
+   "photo_id": 762657564,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 4
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762657685/original.jpg",
+   "photo_id": 762657685,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762662317/original.jpg",
+   "photo_id": 762662317,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762663145/original.jpg",
+   "photo_id": 762663145,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.454072,
+     "top": 0.274422,
+     "width": 0.213995,
+     "height": 0.230903
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762663515/original.jpg",
+   "photo_id": 762663515,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.327794,
+     "top": 0.242312,
+     "width": 0.187582,
+     "height": 0.185479
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762663565/original.jpg",
+   "photo_id": 762663565,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762663975/original.jpg",
+   "photo_id": 762663975,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762664675/original.jpg",
+   "photo_id": 762664675,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762664826/original.jpg",
+   "photo_id": 762664826,
+   "status": "empty",
+   "doubt": false,
+   "comment": "Подсказка: пчела, не бабочка — удалить рамку (фото без бабочек). Почему здесь: рамка на пчеле (наша проверка качества разметки) — проверить. Голоса: Всё верно ×3, Лишняя рамка ×1. Комментарии ревьюеров: Лишняя рамка: На пчеле",
+   "result": [],
+   "source": "team",
+   "review_votes": {
+    "ok": 3,
+    "extra": 1
+   },
+   "review_reason": "рамка на пчеле (наша проверка качества разметки) — проверить",
+   "annotator": "Vova",
+   "image_width": 1536,
+   "image_height": 2048,
+   "updated_at": "2026-11-19T14:44:14.711Z"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762664900/original.jpg",
+   "photo_id": 762664900,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 4
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762665997/original.jpg",
+   "photo_id": 762665997,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.317464,
+     "top": 0.291065,
+     "width": 0.319828,
+     "height": 0.37676
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 2,
+    "extra": 1
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762666364/original.jpg",
+   "photo_id": 762666364,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.218657,
+     "top": 0.277005,
+     "width": 0.61,
+     "height": 0.49
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762666442/original.jpg",
+   "photo_id": 762666442,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.424376,
+     "top": 0.47945,
+     "width": 0.090174,
+     "height": 0.06191
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762668867/original.jpg",
+   "photo_id": 762668867,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.347995,
+     "top": 0.544119,
+     "width": 0.056997,
+     "height": 0.055497
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 4
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762668953/original.jpg",
+   "photo_id": 762668953,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.134763,
+     "top": 0.365547,
+     "width": 0.403333,
+     "height": 0.4525
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 2,
+    "extra": 1
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762669005/original.jpg",
+   "photo_id": 762669005,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762671481/original.jpg",
+   "photo_id": 762671481,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 4
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762671634/original.jpg",
+   "photo_id": 762671634,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762671753/original.jpg",
+   "photo_id": 762671753,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.553085,
+     "top": 0.343655,
+     "width": 0.126672,
+     "height": 0.127505
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 2,
+    "box": 1
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762672181/original.jpg",
+   "photo_id": 762672181,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.135239,
+     "top": 0.395919,
+     "width": 0.639097,
+     "height": 0.193264
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 5
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762672418/original.jpg",
+   "photo_id": 762672418,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.312947,
+     "top": 0.440167,
+     "width": 0.156707,
+     "height": 0.106732
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762672514/original.jpg",
+   "photo_id": 762672514,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 4
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762674744/original.jpg",
+   "photo_id": 762674744,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.048547,
+     "top": 0.0525,
+     "width": 0.811048,
+     "height": 0.870586
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "box": 1,
+    "ok": 2
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762675554/original.jpg",
+   "photo_id": 762675554,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.154338,
+     "top": 0.063386,
+     "width": 0.775069,
+     "height": 0.840278
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762678918/original.jpg",
+   "photo_id": 762678918,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762680309/original.jpg",
+   "photo_id": 762680309,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 4
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762681770/original.jpg",
+   "photo_id": 762681770,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.208753,
+     "top": 0.28186,
+     "width": 0.510719,
+     "height": 0.412343
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 2,
+    "box": 1
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762682358/original.jpg",
+   "photo_id": 762682358,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.258485,
+     "top": 0.152172,
+     "width": 0.553918,
+     "height": 0.536883
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762682720/original.jpg",
+   "photo_id": 762682720,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.021453,
+     "top": 0.048523,
+     "width": 0.936858,
+     "height": 0.873889
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762682727/original.jpg",
+   "photo_id": 762682727,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.300533,
+     "top": 0.360329,
+     "width": 0.212697,
+     "height": 0.162227
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762684165/original.jpg",
+   "photo_id": 762684165,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 4
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762684759/original.jpg",
+   "photo_id": 762684759,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.254074,
+     "top": 0.299583,
+     "width": 0.712963,
+     "height": 0.494792
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 4
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762684953/original.jpg",
+   "photo_id": 762684953,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 4
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762685653/original.jpg",
+   "photo_id": 762685653,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "Подсказка: ночная бабочка (моль), рамка выглядит верной — скорее всего оставить как есть. Почему здесь: нет большинства — решить самим. Голоса: Неточная рамка ×2, Всё верно ×2.",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.184667,
+     "top": 0.3185,
+     "width": 0.55231,
+     "height": 0.451825
+    }
+   ],
+   "source": "team",
+   "review_votes": {
+    "box": 2,
+    "ok": 2
+   },
+   "review_reason": "нет большинства — решить самим",
+   "annotator": "Vova",
+   "image_width": 1536,
+   "image_height": 2048,
+   "updated_at": "2026-11-19T14:47:44.532Z"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762685755/original.jpg",
+   "photo_id": 762685755,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.415313,
+     "top": 0.399529,
+     "width": 0.139032,
+     "height": 0.122595
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762685946/original.jpg",
+   "photo_id": 762685946,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762686053/original.jpg",
+   "photo_id": 762686053,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762687234/original.jpg",
+   "photo_id": 762687234,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762688864/original.jpg",
+   "photo_id": 762688864,
+   "status": "boxes",
+   "doubt": false,
+   "comment": "",
+   "result": [
+    {
+     "shape": "rectangle",
+     "left": 0.417448,
+     "top": 0.37169,
+     "width": 0.180845,
+     "height": 0.253183
+    }
+   ],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762692510/original.jpg",
+   "photo_id": 762692510,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762692601/original.jpg",
+   "photo_id": 762692601,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  },
+  {
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762692929/original.jpg",
+   "photo_id": 762692929,
+   "status": "empty",
+   "doubt": false,
+   "comment": "",
+   "result": [],
+   "source": "review",
+   "review_votes": {
+    "ok": 3
+   },
+   "review_reason": "принято: большинство «Всё верно»"
+  }
+ ]
+}
