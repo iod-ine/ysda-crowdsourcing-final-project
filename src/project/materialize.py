@@ -20,8 +20,8 @@ def parse_args() -> argparse.Namespace:
         "-o",
         "--output",
         type=Path,
-        default=Path("data/images"),
-        help="Directory for downloaded images (default: data/images)",
+        default=Path("data/images/evaluation"),
+        help="Directory for downloaded images (default: data/images/evaluation)",
     )
     return parser.parse_args()
 
