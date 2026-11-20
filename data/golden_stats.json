@@ -1,0 +1,191 @@
+{
+ "format": "butterfly-golden-stats/v1",
+ "exported_at": "2026-11-20T13:36:00+00:00",
+ "golden_set": "golden_set.json",
+ "photos": {
+  "total": 400,
+  "with_butterflies": 272,
+  "without_butterflies": 128
+ },
+ "butterflies": {
+  "total": 283,
+  "per_photo": {
+   "0": 128,
+   "1": 263,
+   "2": 8,
+   "3+": 1
+  },
+  "size_share_of_frame": {
+   "large_over_15pct": 183,
+   "medium_2_to_15pct": 84,
+   "small_under_2pct": 16
+  },
+  "box_area_share_quantiles": {
+   "p10": 0.0353,
+   "median": 0.2429,
+   "p90": 0.6238
+  },
+  "cut_by_frame_edge": 12
+ },
+ "review": {
+  "reviewers_with_accepted_pages": 15,
+  "pages_paid": 158,
+  "pages_rejected": 7,
+  "counted_votes_per_photo": {
+   "1": 1,
+   "2": 7,
+   "3": 328,
+   "4": 56,
+   "5": 8
+  },
+  "agreement": {
+   "unanimous": 346,
+   "majority": 52,
+   "no_majority": 2
+  },
+  "accepted_by_review": 381
+ },
+ "manual_review": {
+  "photos": 19,
+  "changed": 8,
+  "confirmed_as_is": 11,
+  "boxes_added": 2,
+  "boxes_removed": 4,
+  "boxes_moved": 3,
+  "log": [
+   {
+    "photo_id": 173460760,
+    "why": "большинство «Всё верно», но кто-то указал лишнюю рамку — проверить",
+    "change": "без изменений",
+    "boxes_before": 1,
+    "boxes_after": 1
+   },
+   {
+    "photo_id": 477078360,
+    "why": "большинство «Всё верно», но кто-то нашёл пропущенную бабочку — проверить",
+    "change": "1 подвинуто",
+    "boxes_before": 2,
+    "boxes_after": 2
+   },
+   {
+    "photo_id": 602739504,
+    "why": "большинство «Всё верно», но кто-то указал лишнюю рамку — проверить",
+    "change": "без изменений",
+    "boxes_before": 1,
+    "boxes_after": 1
+   },
+   {
+    "photo_id": 703071576,
+    "why": "вероятно, рамка на траве (наша проверка качества разметки) — проверить",
+    "change": "без изменений",
+    "boxes_before": 1,
+    "boxes_after": 1
+   },
+   {
+    "photo_id": 711175722,
+    "why": "рамка на небе (наша проверка качества разметки) — проверить",
+    "change": "1 удалено",
+    "boxes_before": 1,
+    "boxes_after": 0
+   },
+   {
+    "photo_id": 731273614,
+    "why": "большинство «Всё верно», но кто-то указал лишнюю рамку — проверить",
+    "change": "без изменений",
+    "boxes_before": 2,
+    "boxes_after": 2
+   },
+   {
+    "photo_id": 746690362,
+    "why": "лишняя рамка — удалить",
+    "change": "без изменений",
+    "boxes_before": 1,
+    "boxes_after": 1
+   },
+   {
+    "photo_id": 757765903,
+    "why": "неточная рамка, но ревьюеры её не подвинули — поправить",
+    "change": "без изменений",
+    "boxes_before": 1,
+    "boxes_after": 1
+   },
+   {
+    "photo_id": 758718174,
+    "why": "большинство «Всё верно», но кто-то указал лишнюю рамку — проверить",
+    "change": "без изменений",
+    "boxes_before": 1,
+    "boxes_after": 1
+   },
+   {
+    "photo_id": 760759513,
+    "why": "лишняя рамка — удалить",
+    "change": "1 подвинуто, 1 удалено",
+    "boxes_before": 2,
+    "boxes_after": 1
+   },
+   {
+    "photo_id": 761781835,
+    "why": "нет большинства — решить самим",
+    "change": "без изменений",
+    "boxes_before": 1,
+    "boxes_after": 1
+   },
+   {
+    "photo_id": 762098330,
+    "why": "пропущена бабочка — дорисовать рамку",
+    "change": "1 добавлено",
+    "boxes_before": 0,
+    "boxes_after": 1
+   },
+   {
+    "photo_id": 762421600,
+    "why": "большинство «Всё верно», но кто-то нашёл пропущенную бабочку — проверить",
+    "change": "без изменений",
+    "boxes_before": 0,
+    "boxes_after": 0
+   },
+   {
+    "photo_id": 762445055,
+    "why": "лишняя рамка — удалить",
+    "change": "1 удалено",
+    "boxes_before": 2,
+    "boxes_after": 1
+   },
+   {
+    "photo_id": 762517963,
+    "why": "большинство «Всё верно», но кто-то указал лишнюю рамку — проверить",
+    "change": "без изменений",
+    "boxes_before": 1,
+    "boxes_after": 1
+   },
+   {
+    "photo_id": 762598738,
+    "why": "большинство «Всё верно», но кто-то нашёл пропущенную бабочку — проверить",
+    "change": "без изменений",
+    "boxes_before": 1,
+    "boxes_after": 1
+   },
+   {
+    "photo_id": 762641966,
+    "why": "пропущена бабочка — дорисовать рамку",
+    "change": "1 добавлено",
+    "boxes_before": 0,
+    "boxes_after": 1
+   },
+   {
+    "photo_id": 762664826,
+    "why": "рамка на пчеле (наша проверка качества разметки) — проверить",
+    "change": "1 удалено",
+    "boxes_before": 1,
+    "boxes_after": 0
+   },
+   {
+    "photo_id": 762685653,
+    "why": "нет большинства — решить самим",
+    "change": "1 подвинуто",
+    "boxes_before": 1,
+    "boxes_after": 1
+   }
+  ]
+ }
+}

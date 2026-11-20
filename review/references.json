@@ -1,0 +1,916 @@
+{
+ "about": "Эталонные ответы для обучения, экзамена и контрольных фото основного пула. verdict: ok — всё верно, missed — пропущена бабочка, extra — лишняя рамка, box — неточная рамка. Рамки — доли от ширины и высоты фото. real_answer: false — рамки специально испорчены для примера.",
+ "items": [
+  {
+   "id": "sp01",
+   "stage": "training",
+   "photo_id": "761662522",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761662522/original.jpg",
+   "boxes": [
+    {
+     "left": 0.2426,
+     "top": 0.1685,
+     "width": 0.4389,
+     "height": 0.495
+    }
+   ],
+   "verdict": "ok",
+   "real_answer": true,
+   "hint": "Одна бабочка, рамка обводит её целиком и без лишнего места. Правильный ответ — «Всё верно».",
+   "reference_boxes": [
+    {
+     "left": 0.2422,
+     "top": 0.1995,
+     "width": 0.4393,
+     "height": 0.4582
+    }
+   ]
+  },
+  {
+   "id": "tr02",
+   "stage": "training",
+   "photo_id": "761383818",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761383818/original.jpg",
+   "boxes": [
+    {
+     "left": 0.2403,
+     "top": 0.2003,
+     "width": 0.527,
+     "height": 0.5795
+    }
+   ],
+   "verdict": "ok",
+   "real_answer": true,
+   "hint": "Одна бабочка, рамка аккуратная. Правильный ответ — «Всё верно».",
+   "reference_boxes": [
+    {
+     "left": 0.2391,
+     "top": 0.1989,
+     "width": 0.5318,
+     "height": 0.5851
+    }
+   ]
+  },
+  {
+   "id": "tr03",
+   "stage": "training",
+   "photo_id": "567347185",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/567347185/original.jpg",
+   "boxes": [
+    {
+     "left": 0.1696,
+     "top": 0.2505,
+     "width": 0.4125,
+     "height": 0.56
+    },
+    {
+     "left": 0.5314,
+     "top": 0.128,
+     "width": 0.345,
+     "height": 0.545
+    }
+   ],
+   "verdict": "ok",
+   "real_answer": true,
+   "hint": "Две бабочки — две рамки. Рамки пересекаются, это нормально. Правильный ответ — «Всё верно».",
+   "reference_boxes": [
+    {
+     "left": 0.1697,
+     "top": 0.2525,
+     "width": 0.4116,
+     "height": 0.541
+    },
+    {
+     "left": 0.5332,
+     "top": 0.1325,
+     "width": 0.3443,
+     "height": 0.5342
+    }
+   ]
+  },
+  {
+   "id": "tr04",
+   "stage": "training",
+   "photo_id": "762514623",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762514623/original.jpg",
+   "boxes": [],
+   "verdict": "ok",
+   "real_answer": true,
+   "hint": "На цветке сидит муха, а не бабочка. Рамок нет — так и должно быть. Правильный ответ — «Всё верно».",
+   "reference_boxes": []
+  },
+  {
+   "id": "tr05",
+   "stage": "training",
+   "photo_id": "762664520",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762664520/original.jpg",
+   "boxes": [],
+   "verdict": "ok",
+   "real_answer": true,
+   "hint": "На фото только растение, бабочек нет, и рамок нет. Правильный ответ — «Всё верно».",
+   "reference_boxes": []
+  },
+  {
+   "id": "tr06",
+   "stage": "training",
+   "photo_id": "760750840",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/760750840/original.jpg",
+   "boxes": [],
+   "verdict": "missed",
+   "real_answer": true,
+   "hint": "В центре две бабочки, а рамок нет совсем. Правильный ответ — «Пропущена бабочка».",
+   "reference_boxes": [
+    {
+     "left": 0.2584,
+     "top": 0.1605,
+     "width": 0.5256,
+     "height": 0.4832
+    },
+    {
+     "left": 0.29,
+     "top": 0.489,
+     "width": 0.5,
+     "height": 0.5085
+    }
+   ]
+  },
+  {
+   "id": "tr07",
+   "stage": "training",
+   "photo_id": "388813999",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/388813999/original.jpeg",
+   "boxes": [
+    {
+     "left": 0.3946,
+     "top": 0.168,
+     "width": 0.3769,
+     "height": 0.595
+    }
+   ],
+   "verdict": "missed",
+   "real_answer": false,
+   "hint": "Бабочек две, а рамка только у правой. Правильный ответ — «Пропущена бабочка».",
+   "reference_boxes": [
+    {
+     "left": 0.1664,
+     "top": 0.2139,
+     "width": 0.3267,
+     "height": 0.5242
+    },
+    {
+     "left": 0.3964,
+     "top": 0.1725,
+     "width": 0.3682,
+     "height": 0.5835
+    }
+   ]
+  },
+  {
+   "id": "tr08",
+   "stage": "training",
+   "photo_id": "762575383",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762575383/original.jpg",
+   "boxes": [
+    {
+     "left": 0.32,
+     "top": 0.202,
+     "width": 0.349,
+     "height": 0.61
+    }
+   ],
+   "verdict": "extra",
+   "real_answer": false,
+   "hint": "Рамка обводит цветок. Бабочек на фото нет, значит рамка лишняя. Правильный ответ — «Лишняя рамка».",
+   "reference_boxes": []
+  },
+  {
+   "id": "tr09",
+   "stage": "training",
+   "photo_id": "761939177",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761939177/original.jpg",
+   "boxes": [
+    {
+     "left": 0.306,
+     "top": 0.24,
+     "width": 0.4915,
+     "height": 0.4025
+    },
+    {
+     "left": 0.5272,
+     "top": 0.2802,
+     "width": 0.2703,
+     "height": 0.322
+    }
+   ],
+   "verdict": "extra",
+   "real_answer": false,
+   "hint": "На одной бабочке две рамки: вторая обводит только часть крыльев. Правильный ответ — «Лишняя рамка».",
+   "reference_boxes": [
+    {
+     "left": 0.3003,
+     "top": 0.2362,
+     "width": 0.4984,
+     "height": 0.4173
+    }
+   ]
+  },
+  {
+   "id": "tr10",
+   "stage": "training",
+   "photo_id": "762574511",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762574511/original.jpg",
+   "boxes": [
+    {
+     "left": 0.1898,
+     "top": 0.3189,
+     "width": 0.5307,
+     "height": 0.4344
+    }
+   ],
+   "verdict": "box",
+   "real_answer": true,
+   "hint": "Рамка намного больше бабочки: слева и снизу захвачено много листа. Правильный ответ — «Неточная рамка».",
+   "reference_boxes": [
+    {
+     "left": 0.2899,
+     "top": 0.3109,
+     "width": 0.3879,
+     "height": 0.3116
+    }
+   ]
+  },
+  {
+   "id": "tr11",
+   "stage": "training",
+   "photo_id": "762657076",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762657076/original.jpg",
+   "boxes": [
+    {
+     "left": 0.217,
+     "top": 0.0786,
+     "width": 0.7667,
+     "height": 0.9214
+    }
+   ],
+   "verdict": "box",
+   "real_answer": true,
+   "hint": "Левый край крыльев остался за рамкой, а справа рамка захватывает много пустой сетки. Правильный ответ — «Неточная рамка».",
+   "reference_boxes": [
+    {
+     "left": 0.126,
+     "top": 0.1505,
+     "width": 0.7107,
+     "height": 0.6983
+    }
+   ]
+  },
+  {
+   "id": "tr12",
+   "stage": "training",
+   "photo_id": "762601421",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762601421/original.jpg",
+   "boxes": [
+    {
+     "left": 0.2034,
+     "top": 0.2425,
+     "width": 0.5814,
+     "height": 0.5875
+    }
+   ],
+   "verdict": "box",
+   "real_answer": true,
+   "hint": "Рамка слишком широкая: слева и справа от бабочки много пустого места. Правильный ответ — «Неточная рамка».",
+   "reference_boxes": [
+    {
+     "left": 0.3228,
+     "top": 0.2835,
+     "width": 0.3718,
+     "height": 0.4841
+    }
+   ]
+  },
+  {
+   "id": "ex01",
+   "stage": "exam",
+   "photo_id": "762589358",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762589358/original.jpg",
+   "boxes": [
+    {
+     "left": 0.2577,
+     "top": 0.2263,
+     "width": 0.4578,
+     "height": 0.4873
+    }
+   ],
+   "verdict": "ok",
+   "real_answer": true
+  },
+  {
+   "id": "ex02",
+   "stage": "exam",
+   "photo_id": "755646466",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/755646466/original.jpg",
+   "boxes": [
+    {
+     "left": 0.1405,
+     "top": 0.245,
+     "width": 0.6996,
+     "height": 0.465
+    }
+   ],
+   "verdict": "ok",
+   "real_answer": true
+  },
+  {
+   "id": "ex03",
+   "stage": "exam",
+   "photo_id": "762411961",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762411961/original.jpg",
+   "boxes": [],
+   "verdict": "ok",
+   "real_answer": true
+  },
+  {
+   "id": "ex04",
+   "stage": "exam",
+   "photo_id": "762677167",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762677167/original.jpg",
+   "boxes": [],
+   "verdict": "ok",
+   "real_answer": true
+  },
+  {
+   "id": "ex05",
+   "stage": "exam",
+   "photo_id": "762613856",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762613856/original.jpg",
+   "boxes": [],
+   "verdict": "missed",
+   "real_answer": false
+  },
+  {
+   "id": "ex06",
+   "stage": "exam",
+   "photo_id": "44472622",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/44472622/original.jpeg",
+   "boxes": [
+    {
+     "left": 0.166,
+     "top": 0.1075,
+     "width": 0.5399,
+     "height": 0.5925
+    }
+   ],
+   "verdict": "missed",
+   "real_answer": false
+  },
+  {
+   "id": "ex07",
+   "stage": "exam",
+   "photo_id": "759181931",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/759181931/original.jpg",
+   "boxes": [
+    {
+     "left": 0.3125,
+     "top": 0.4399,
+     "width": 0.2199,
+     "height": 0.2821
+    },
+    {
+     "left": 0.5241,
+     "top": 0.3883,
+     "width": 0.0814,
+     "height": 0.1352
+    }
+   ],
+   "verdict": "extra",
+   "real_answer": true
+  },
+  {
+   "id": "ex08",
+   "stage": "exam",
+   "photo_id": "762197093",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762197093/original.jpg",
+   "boxes": [
+    {
+     "left": 0.1771,
+     "top": 0.105,
+     "width": 0.6383,
+     "height": 0.6125
+    },
+    {
+     "left": 0.4643,
+     "top": 0.1663,
+     "width": 0.3511,
+     "height": 0.49
+    }
+   ],
+   "verdict": "extra",
+   "real_answer": false
+  },
+  {
+   "id": "ex09",
+   "stage": "exam",
+   "photo_id": "599599023",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/599599023/original.jpg",
+   "boxes": [
+    {
+     "left": 0,
+     "top": 0.23,
+     "width": 1,
+     "height": 0.68
+    }
+   ],
+   "verdict": "box",
+   "real_answer": false
+  },
+  {
+   "id": "ex10",
+   "stage": "exam",
+   "photo_id": "566404458",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/566404458/original.jpg",
+   "boxes": [
+    {
+     "left": 0.3881,
+     "top": 0.2853,
+     "width": 0.2173,
+     "height": 0.337
+    },
+    {
+     "left": 0.1213,
+     "top": 0.2442,
+     "width": 0.3771,
+     "height": 0.6122
+    }
+   ],
+   "verdict": "box",
+   "real_answer": false
+  },
+  {
+   "id": "co01",
+   "stage": "control",
+   "photo_id": "761662522",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761662522/original.jpg",
+   "boxes": [
+    {
+     "left": 0.2403,
+     "top": 0.1942,
+     "width": 0.4602,
+     "height": 0.4774
+    }
+   ],
+   "verdict": "ok",
+   "real_answer": true
+  },
+  {
+   "id": "co02",
+   "stage": "control",
+   "photo_id": "761346880",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761346880/original.jpg",
+   "boxes": [
+    {
+     "left": 0.3339,
+     "top": 0.3295,
+     "width": 0.2546,
+     "height": 0.3375
+    }
+   ],
+   "verdict": "missed",
+   "real_answer": true,
+   "disabled_during_run": "вторая бабочка почти не видна, её пропускали и хорошие проверяющие"
+  },
+  {
+   "id": "co03",
+   "stage": "control",
+   "photo_id": "762614362",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762614362/original.jpg",
+   "boxes": [
+    {
+     "left": 0.1929,
+     "top": 0.105,
+     "width": 0.676,
+     "height": 0.7175
+    }
+   ],
+   "verdict": "ok",
+   "real_answer": true
+  },
+  {
+   "id": "co04",
+   "stage": "control",
+   "photo_id": "599924128",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/599924128/original.jpg",
+   "boxes": [
+    {
+     "left": 0.3473,
+     "top": 0.2925,
+     "width": 0.3217,
+     "height": 0.4175
+    }
+   ],
+   "verdict": "ok",
+   "real_answer": true
+  },
+  {
+   "id": "co05",
+   "stage": "control",
+   "photo_id": "762680274",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762680274/original.jpg",
+   "boxes": [
+    {
+     "left": 0.3953,
+     "top": 0.287,
+     "width": 0.3833,
+     "height": 0.2625
+    }
+   ],
+   "verdict": "ok",
+   "real_answer": true
+  },
+  {
+   "id": "co06",
+   "stage": "control",
+   "photo_id": "388813999",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/388813999/original.jpeg",
+   "boxes": [
+    {
+     "left": 0.3949,
+     "top": 0.1755,
+     "width": 0.3687,
+     "height": 0.5798
+    },
+    {
+     "left": 0.1658,
+     "top": 0.2169,
+     "width": 0.3034,
+     "height": 0.5195
+    }
+   ],
+   "verdict": "ok",
+   "real_answer": true
+  },
+  {
+   "id": "co07",
+   "stage": "control",
+   "photo_id": "761383818",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761383818/original.jpg",
+   "boxes": [
+    {
+     "left": 0.2838,
+     "top": 0.1988,
+     "width": 0.4871,
+     "height": 0.5816
+    }
+   ],
+   "verdict": "box",
+   "real_answer": true
+  },
+  {
+   "id": "co08",
+   "stage": "control",
+   "photo_id": "44472622",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/44472622/original.jpeg",
+   "boxes": [
+    {
+     "left": 0.1623,
+     "top": 0.1032,
+     "width": 0.5482,
+     "height": 0.6038
+    },
+    {
+     "left": 0.5241,
+     "top": 0.2595,
+     "width": 0.3435,
+     "height": 0.531
+    }
+   ],
+   "verdict": "ok",
+   "real_answer": true
+  },
+  {
+   "id": "co09",
+   "stage": "control",
+   "photo_id": "762200677",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762200677/original.jpg",
+   "boxes": [],
+   "verdict": "ok",
+   "real_answer": true
+  },
+  {
+   "id": "co10",
+   "stage": "control",
+   "photo_id": "762687131",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762687131/original.jpg",
+   "boxes": [],
+   "verdict": "ok",
+   "real_answer": true
+  },
+  {
+   "id": "co11",
+   "stage": "control",
+   "photo_id": "762664100",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762664100/original.jpg",
+   "boxes": [],
+   "verdict": "ok",
+   "real_answer": true
+  },
+  {
+   "id": "co12",
+   "stage": "control",
+   "photo_id": "762575383",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762575383/original.jpg",
+   "boxes": [],
+   "verdict": "ok",
+   "real_answer": true
+  },
+  {
+   "id": "co13",
+   "stage": "control",
+   "photo_id": "762657076",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762657076/original.jpg",
+   "boxes": [],
+   "verdict": "missed",
+   "real_answer": false
+  },
+  {
+   "id": "co14",
+   "stage": "control",
+   "photo_id": "762197093",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762197093/original.jpg",
+   "boxes": [],
+   "verdict": "missed",
+   "real_answer": false
+  },
+  {
+   "id": "co15",
+   "stage": "control",
+   "photo_id": "760750840",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/760750840/original.jpg",
+   "boxes": [
+    {
+     "left": 0.2652,
+     "top": 0.1667,
+     "width": 0.4859,
+     "height": 0.475
+    }
+   ],
+   "verdict": "missed",
+   "real_answer": true
+  },
+  {
+   "id": "co16",
+   "stage": "control",
+   "photo_id": "566404458",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/566404458/original.jpg",
+   "boxes": [
+    {
+     "left": 0.154,
+     "top": 0.3054,
+     "width": 0.2514,
+     "height": 0.4081
+    }
+   ],
+   "verdict": "missed",
+   "real_answer": false
+  },
+  {
+   "id": "co17",
+   "stage": "control",
+   "photo_id": "762411961",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762411961/original.jpg",
+   "boxes": [
+    {
+     "left": 0.336,
+     "top": 0.025,
+     "width": 0.516,
+     "height": 0.675
+    }
+   ],
+   "verdict": "extra",
+   "real_answer": false
+  },
+  {
+   "id": "co18",
+   "stage": "control",
+   "photo_id": "762514623",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762514623/original.jpg",
+   "boxes": [
+    {
+     "left": 0.527,
+     "top": 0.339,
+     "width": 0.313,
+     "height": 0.365
+    }
+   ],
+   "verdict": "extra",
+   "real_answer": false
+  },
+  {
+   "id": "co19",
+   "stage": "control",
+   "photo_id": "761722331",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761722331/original.jpg",
+   "boxes": [
+    {
+     "left": 0.224,
+     "top": 0.3222,
+     "width": 0.2174,
+     "height": 0.3142
+    },
+    {
+     "left": 0.3219,
+     "top": 0.3536,
+     "width": 0.1196,
+     "height": 0.2514
+    }
+   ],
+   "verdict": "extra",
+   "real_answer": false
+  },
+  {
+   "id": "co20",
+   "stage": "control",
+   "photo_id": "599599023",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/599599023/original.jpg",
+   "boxes": [
+    {
+     "left": 0.0869,
+     "top": 0.298,
+     "width": 0.8197,
+     "height": 0.4533
+    },
+    {
+     "left": 0.4558,
+     "top": 0.3434,
+     "width": 0.4509,
+     "height": 0.3627
+    }
+   ],
+   "verdict": "extra",
+   "real_answer": false
+  },
+  {
+   "id": "sp07",
+   "stage": "control",
+   "photo_id": "761383818",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761383818/original.jpg",
+   "boxes": [
+    {
+     "left": 0.2239,
+     "top": 0.0462,
+     "width": 0.5462,
+     "height": 0.9538
+    }
+   ],
+   "verdict": "box",
+   "real_answer": true
+  },
+  {
+   "id": "co22",
+   "stage": "control",
+   "photo_id": "761939177",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761939177/original.jpg",
+   "boxes": [
+    {
+     "left": 0.3005,
+     "top": 0.1209,
+     "width": 0.6228,
+     "height": 0.8791
+    }
+   ],
+   "verdict": "box",
+   "real_answer": true
+  },
+  {
+   "id": "co23",
+   "stage": "control",
+   "photo_id": "762574511",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762574511/original.jpg",
+   "boxes": [
+    {
+     "left": 0.1909,
+     "top": 0.2671,
+     "width": 0.5534,
+     "height": 0.4321
+    }
+   ],
+   "verdict": "box",
+   "real_answer": true
+  },
+  {
+   "id": "co24",
+   "stage": "control",
+   "photo_id": "567347185",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/567347185/original.jpg",
+   "boxes": [
+    {
+     "left": 0.1254,
+     "top": 0.094,
+     "width": 0.8065,
+     "height": 0.7838
+    },
+    {
+     "left": 0.5341,
+     "top": 0.1195,
+     "width": 0.3656,
+     "height": 0.5448
+    }
+   ],
+   "verdict": "box",
+   "real_answer": true
+  },
+  {
+   "id": "sp02",
+   "stage": "control",
+   "photo_id": "762601421",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/762601421/original.jpg",
+   "boxes": [],
+   "verdict": "missed",
+   "real_answer": false
+  },
+  {
+   "id": "sp03",
+   "stage": "control",
+   "photo_id": "760750840",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/760750840/original.jpg",
+   "boxes": [
+    {
+     "left": 0.287,
+     "top": 0.4778,
+     "width": 0.5027,
+     "height": 0.5192
+    }
+   ],
+   "verdict": "missed",
+   "real_answer": false
+  },
+  {
+   "id": "sp04",
+   "stage": "control",
+   "photo_id": "761346880",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761346880/original.jpg",
+   "boxes": [
+    {
+     "left": 0.334,
+     "top": 0.3256,
+     "width": 0.2483,
+     "height": 0.3258
+    },
+    {
+     "left": 0.2146,
+     "top": 0.5136,
+     "width": 0.17,
+     "height": 0.1921
+    }
+   ],
+   "verdict": "ok",
+   "real_answer": true,
+   "disabled_during_run": "то же фото, что co02"
+  },
+  {
+   "id": "sp05",
+   "stage": "control",
+   "photo_id": "388813999",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/388813999/original.jpeg",
+   "boxes": [
+    {
+     "left": 0.1665,
+     "top": 0.221,
+     "width": 0.3206,
+     "height": 0.515
+    },
+    {
+     "left": 0.3896,
+     "top": 0.181,
+     "width": 0.0975,
+     "height": 0.555
+    },
+    {
+     "left": 0.3896,
+     "top": 0.181,
+     "width": 0.3769,
+     "height": 0.575
+    }
+   ],
+   "verdict": "extra",
+   "real_answer": true,
+   "disabled_during_run": "лишняя рамка совпадает с краями двух других и не видна на экране"
+  },
+  {
+   "id": "sp06",
+   "stage": "control",
+   "photo_id": "761722331",
+   "image": "https://inaturalist-open-data.s3.amazonaws.com/photos/761722331/original.jpg",
+   "boxes": [
+    {
+     "left": 0.1756,
+     "top": 0.368,
+     "width": 0.2222,
+     "height": 0.1673
+    }
+   ],
+   "verdict": "box",
+   "real_answer": true
+  }
+ ]
+}
