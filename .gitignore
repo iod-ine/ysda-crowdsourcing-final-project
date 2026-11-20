@@ -12,3 +12,6 @@ wheels/
 
 # Downloaded images
 /data/images/
+
+# macOS metadata
+.DS_Store
