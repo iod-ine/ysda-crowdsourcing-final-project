@@ -16,6 +16,7 @@ dependencies = [
 [project.scripts]
 evaluate = "project.evaluate:main"
 materialize = "project.materialize:main"
+predict = "project.predict:main"
 materialize-dataset = "project.materialize_dataset:main"
 
 [build-system]
