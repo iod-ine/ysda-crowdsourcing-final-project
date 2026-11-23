@@ -1,7 +1,7 @@
 """Recover malformed Qwen evaluation responses without rerunning inference.
 
 Only complete JSON objects or complete box lists with broken closing punctuation
-are accepted. Truncated responses remain errors; coordinates are never invented
+are accepted. A flat four-number box is wrapped in a list. Truncated responses remain errors; coordinates are never invented
 or deduplicated. The original evaluation and raw responses are not modified.
 """
 
@@ -36,9 +36,16 @@ def recover_boxes(response):
         try:
             value, _ = json.JSONDecoder().raw_decode(text[match.start():])
         except json.JSONDecodeError:
+            # Commentary may precede a final object with broken closing brackets.
+            repaired = BROKEN_OBJECT.fullmatch(text[match.start():])
+            if repaired is not None:
+                objects.append(json.loads("[" + repaired["boxes"] + "]"))
             continue
         if isinstance(value, dict) and set(value) == {"boxes"}:
-            objects.append(value["boxes"])
+            boxes = value["boxes"]
+            if isinstance(boxes, list) and len(boxes) == 4 and all(type(x) in (int, float) for x in boxes):
+                boxes = [boxes]
+            objects.append(boxes)
     if objects:
         if any(boxes != objects[0] for boxes in objects[1:]):
             raise ValueError("Conflicting complete box objects")
