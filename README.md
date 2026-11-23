@@ -5,6 +5,7 @@
 ```shell
 uv run materialize -i path/to/golden_set.json
 uv run evaluate -i path/to/golden_set.json -m model
+uv run recover-evaluation data/evaluations/qwen_manual_prompt.csv data/evaluations/qwen_manual_prompt.responses.jsonl data/evaluations/qwen_manual_prompt_recovered.csv
 ```
 
 ## Предсказание
