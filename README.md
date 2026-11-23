@@ -32,3 +32,10 @@ uv run render-predictions -i data/qwen_prediction.jsonl -o data/images/qwen_resu
 | Qwen — исходный промпт | — | 400/400 | 67.6% | 88.3% | 76.6% | 0.883 | 5.67 |
 | Qwen — новый промпт, после восстановления | — | 399/400 | 80.1% | 93.6% | 86.3% | 0.883 | 6.00 |
 | **Qwen — ручной промпт** | — | **399/400** | **91.6%** | **92.9%** | **92.3%** | **0.885** | 6.29 |
+
+## Примеры сложной разметки от Qwen
+
+![](data/images/examples/54409.jpg)
+![](data/images/examples/206361.jpg)
+![](data/images/examples/523030.jpg)
+![](data/images/examples/527798.jpg)
