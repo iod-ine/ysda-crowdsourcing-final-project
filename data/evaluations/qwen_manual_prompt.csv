@@ -1,0 +1,401 @@
+photo_id,model,labels,iou_threshold,score_threshold,status,error,tp,fp,fn,precision,recall,f1,mean_matched_iou,gt_boxes,pred_boxes,inference_seconds
+89534251,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 31 (char 30)",,,,,,,,"[[0.07125, 0.245, 1.0, 0.8875]]",,6.214441459000227
+94401699,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.095879, 0.068606, 0.9471820000000001, 0.916317]]",,4.412595833004161
+108852070,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.13595, 0.170547, 0.871452, 0.750547]]",,2.8720008750024135
+116145037,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 31 (char 30)",,,,,,,,"[[0.032595, 0.15, 0.980364, 0.775]]",,3.709635999999591
+126233619,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 30 (char 29)",,,,,,,,"[[0.044533, 0.05375, 0.9756790000000001, 0.8568749999999999]]",,4.518900666000263
+145698928,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 30 (char 29)",,,,,,,,"[[0.04566, 0.042148, 0.9437530000000001, 0.939365]]",,4.466519875000813
+145698951,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 31 (char 30)",,,,,,,,"[[0.058579, 0.1125, 0.947029, 0.8125]]",,5.106188249999832
+173460760,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.144013, 0.258047, 0.8688359999999999, 0.823047]]",,5.2292339999985415
+174340812,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,1,0,0,1.0,1.0,1.0,0.9395786337069749,"[[0.004747, 0.063263, 0.965541, 0.9072749999999999]]","[{""box"": [0.0, 0.077, 0.964, 0.875]}]",5.2469994999992196
+220579705,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.211547, 0.343278, 0.646366, 0.5367040000000001]]",,6.0338272909939406
+220582178,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.201745, 0.269505, 0.790495, 0.7195050000000001]]",,6.050588666999829
+249706634,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.094435, 0.200684, 0.9072950000000001, 0.687961]]",,2.4152301249996526
+275196277,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,2,0,0,1.0,1.0,1.0,0.881283898801675,"[[0.310445, 0.273109, 0.55592, 0.5298149999999999], [0.799791, 0.472056, 0.974672, 0.6517499999999999]]","[{""box"": [0.318, 0.283, 0.55, 0.521]}, {""box"": [0.811, 0.477, 0.972, 0.65]}]",9.514336708998599
+275215939,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,2,1,0.0,0.0,0.0,,"[[0.104653, 0.248757, 0.922523, 0.846288]]","[{""box"": [0.1, 0.2, 0.5, 0.7]}, {""box"": [0.55, 0.488, 0.925, 0.825]}]",9.57640574999823
+286650977,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.213602, 0.202635, 0.9168879999999999, 0.715448]]",,3.319456874996831
+360784067,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.162054, 0.305547, 0.679554, 0.728047]]",,6.108284374997311
+397276870,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,1,1,0,0.5,1.0,0.6666666666666666,0.7114638437756885,"[[0.31375, 0.081667, 0.659063, 0.519167]]","[{""box"": [0.34, 0.18, 0.658, 0.518]}, {""box"": [0.37, 0.418, 0.629, 0.695]}]",6.579846999993606
+447211442,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 31 (char 30)",,,,,,,,"[[0.075129, 0.142522, 0.895348, 0.8334170000000001]]",,4.958544000000984
+449460320,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 31 (char 30)",,,,,,,,"[[0.033588, 0.155, 0.9378749999999999, 0.735]]",,8.306803040999512
+449574807,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.137778, 0.202005, 0.776934, 0.7095049999999999]]",,5.169805416997406
+454011739,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.435804, 0.273047, 0.9926790000000001, 0.698047]]",,6.147192750002432
+454023635,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.11625, 0.2325, 0.710625, 0.6425]]",,6.590016417001607
+460071239,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.166693, 0.165597, 0.8475119999999999, 0.910626]]",,6.5880656669978634
+460078351,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.163177, 0.25138, 0.8602730000000001, 0.8136019999999999]]",,5.022497666999698
+460078396,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.154187, 0.2475, 0.859819, 0.8125]]",,6.178518125001574
+465277264,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.12, 0.1725, 0.936667, 0.69]]",,6.499899959002505
+470381475,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.228304, 0.311319, 0.8221769999999999, 0.580416]]",,3.6527815419976832
+470668190,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.109921, 0.1375, 0.873144, 0.7825]]",,7.785700125001313
+471391923,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.323076, 0.131147, 0.7130909999999999, 0.781172]]",,6.5348045409991755
+477078360,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.020255, 0.495589, 0.383014, 0.695797], [0.208361, 0.143151, 0.979101, 0.844174]]",,10.319888417005131
+500895503,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],8.937943791999714
+510051136,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 31 (char 30)",,,,,,,,"[[0.058657, 0.364505, 0.93199, 0.659505]]",,6.801117708004313
+574666267,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.259249, 0.429124, 0.461281, 0.755316], [0.308698, 0.263349, 0.570075, 0.557222]]",,6.853892833001737
+597564018,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,1,0,0,1.0,1.0,1.0,0.9518805002165275,"[[0.145664, 0.217917, 0.855932, 0.7734730000000001]]","[{""box"": [0.155, 0.225, 0.848, 0.767]}]",1.1298665840004105
+599836429,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],9.975274750002427
+600343107,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 31 (char 30)",,,,,,,,"[[0.060587, 0.177005, 0.8971089999999999, 0.802005]]",,1.6283849169994937
+600462610,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 31 (char 30)",,,,,,,,"[[0.021085, 0.134677, 0.966253, 0.9202220000000001]]",,1.6864423340011854
+600834066,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 30 (char 29)",,,,,,,,"[[0.036965, 0.049505, 0.8675590000000001, 0.802005]]",,1.3595980829995824
+600930735,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],1.0881285420036875
+601024285,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 31 (char 30)",,,,,,,,"[[0.306278, 0.039775, 0.7994859999999999, 0.972257]]",,2.420742499998596
+602733418,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 30 (char 29)",,,,,,,,"[[0.005659, 0.025, 0.980453, 0.9725]]",,4.747441625004285
+602739504,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 30 (char 29)",,,,,,,,"[[0.035693, 0.0075, 0.97307, 0.9887499999999999]]",,5.41390133400273
+609963435,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 29 (char 28)",,,,,,,,"[[0.006182, 0.0, 0.997112, 1.0]]",,5.632131750004191
+611219299,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.135209, 0.165, 0.92715, 0.76]]",,1.5795876249976573
+611608927,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 31 (char 30)",,,,,,,,"[[0.056137, 0.220547, 0.927232, 0.7305470000000001]]",,1.3982962910013157
+611718175,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 31 (char 30)",,,,,,,,"[[0.13131, 0.060593, 0.967797, 0.8606240000000001]]",,1.6656764159997692
+612001385,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],0.8959513749941834
+612011272,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 31 (char 30)",,,,,,,,"[[0.027334, 0.158047, 0.963129, 0.80888]]",,1.8479258750012377
+613005456,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],8.253689707999001
+616759928,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.239968, 0.326458, 0.758089, 0.7363729999999999]]",,6.839823750000505
+617256270,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.194245, 0.217005, 0.82237, 0.717005]]",,6.980531499997596
+639205548,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,2,1,0.0,0.0,0.0,,"[[0.219524, 0.125503, 0.767153, 0.6969730000000001]]","[{""box"": [0.1, 0.2, 0.5, 0.7]}, {""box"": [0.1, 0.2, 0.5, 0.7]}]",7.398510666003858
+669199724,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.340331, 0.334614, 0.679114, 0.613945]]",,5.072453708999092
+669200324,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.342132, 0.340167, 0.578795, 0.6201209999999999]]",,5.084876833003364
+692529210,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,1,1,1,0.5,0.5,0.5,0.6971301823713513,"[[0.416704, 0.173264, 0.587958, 0.69757], [0.353062, 0.468403, 0.597215, 0.855556]]","[{""box"": [0.353, 0.175, 0.588, 0.72]}, {""box"": [0.5, 0.644, 0.598, 0.855]}]",6.485866957998951
+703071576,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,1,0,0,1.0,1.0,1.0,0.7720861551233402,"[[0.522989, 0.42631, 0.57889, 0.48454]]","[{""box"": [0.518, 0.42, 0.58, 0.488]}]",1.0652442920036265
+711175210,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.437442, 0.329533, 0.578921, 0.42159100000000005], [0.467805, 0.285442, 0.623496, 0.37459299999999995]]",,7.1597901659988565
+711175722,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,1,0,0.0,,0.0,,[],"[{""box"": [0.388, 0.444, 0.51, 0.53]}]",0.8335053750051884
+731273614,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,2,0,0,1.0,1.0,1.0,0.8636593153204806,"[[0.475762, 0.527094, 0.584889, 0.686831], [0.390358, 0.56426, 0.490589, 0.697111]]","[{""box"": [0.391, 0.56, 0.488, 0.695]}, {""box"": [0.478, 0.544, 0.581, 0.68]}]",7.908296375004284
+744971223,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 31 (char 30)",,,,,,,,"[[0.352193, 0.07288, 0.528311, 0.5989180000000001]]",,7.1732217090029735
+746690362,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.107471, 0.246658, 0.930179, 0.805825]]",,6.898706208994554
+747271259,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 33 (char 32)",,,,,,,,"[[0.205557, 0.294175, 1.0, 0.760097]]",,6.997982374996354
+747968402,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.149245, 0.219505, 0.7661199999999999, 0.699505]]",,7.394425750004302
+751840376,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.323404, 0.273225, 0.705188, 0.544492]]",,7.928683749996708
+752186871,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.145299, 0.180417, 0.9285859999999999, 0.8095840000000001]]",,9.416942083997128
+752239769,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.24532, 0.37156, 0.651486, 0.551597]]",,7.289828332999605
+752519663,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.298097, 0.408047, 0.8714299999999999, 0.808047]]",,7.143273166002473
+754122209,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.312798, 0.145, 0.760365, 0.8250000000000001]]",,6.011835249999422
+754294149,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 30 (char 29)",,,,,,,,"[[0.098309, 0.05, 0.918109, 0.9]]",,6.001584292003827
+754463449,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.297748, 0.479381, 0.489649, 0.6450629999999999]]",,9.519492834006087
+754651979,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 31 (char 30)",,,,,,,,"[[0.08, 0.1375, 0.9175, 0.6225]]",,17.53600254200137
+754755936,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.125996, 0.238062, 0.900256, 0.683047]]",,5.996125499994378
+754757508,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.141912, 0.173153, 0.889796, 0.618986]]",,7.718116957999882
+754759274,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.200987, 0.227005, 0.857298, 0.749505]]",,4.465358249995916
+754773811,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.198462, 0.1475, 0.919635, 0.7075]]",,8.097958750004182
+754775377,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,1,0,0,1.0,1.0,1.0,0.9634621629250494,"[[0.199529, 0.144697, 0.795215, 0.791476]]","[{""box"": [0.205, 0.148, 0.785, 0.788]}]",5.032360459001211
+755094110,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],10.474605083996721
+755480689,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.194873, 0.236151, 0.8565659999999999, 0.861175]]",,5.20340149999538
+755652611,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.258231, 0.149442, 0.7451300000000001, 0.6684669999999999]]",,4.7652670000024955
+756487875,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.277974, 0.106249, 0.8512599999999999, 0.7390880000000001]]",,11.203486541999155
+757755826,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],11.761303999999654
+757757208,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 31 (char 30)",,,,,,,,"[[0.173607, 0.0, 0.824633, 1.0]]",,7.8996877079989645
+757764719,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.263021, 0.377005, 0.9070800000000001, 0.662005]]",,8.208601917001943
+757765903,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,1,0,0,1.0,1.0,1.0,0.8526268659156392,"[[0.210251, 0.369416, 0.8311459999999999, 0.5934790000000001]]","[{""box"": [0.218, 0.365, 0.83, 0.567]}]",8.243818832997931
+757812338,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.166754, 0.25862, 0.935986, 0.451992]]",,8.032033416995546
+757954774,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 30 (char 29)",,,,,,,,"[[0.036924, 0.0625, 1.0, 0.893125]]",,4.110032083997794
+757960293,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.139193, 0.219505, 0.8634850000000001, 0.962005]]",,11.42300245899969
+757960401,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],9.588295832996664
+758161076,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 31 (char 30)",,,,,,,,"[[0.0461, 0.255208, 0.904338, 0.763889]]",,10.555110541004979
+758400674,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.383807, 0.163097, 0.6510050000000001, 0.8156220000000001]]",,9.585283458000049
+758626739,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.092993, 0.337578, 0.857063, 0.837162]]",,18.008587958000135
+758718174,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,1,0,0,1.0,1.0,1.0,0.858789551440795,"[[0.406535, 0.476146, 0.575174, 0.5699000000000001]]","[{""box"": [0.4, 0.47, 0.575, 0.575]}]",4.314488333999179
+758874265,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],2.730329124999116
+759008377,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,1,0,1,1.0,0.5,0.6666666666666666,0.8255830836822768,"[[0.073315, 0.2525, 0.594854, 0.7475], [0.563196, 0.09, 0.914609, 0.755599]]","[{""box"": [0.564, 0.104, 0.888, 0.7]}]",12.117402292002225
+759044205,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.321956, 0.241707, 0.647397, 0.740839]]",,11.412887083999522
+759182208,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 31 (char 30)",,,,,,,,"[[0.227817, 0.048562, 0.669983, 0.676094]]",,12.405663874997117
+759215578,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.299245, 0.244505, 0.6611199999999999, 0.812005]]",,12.57599941600347
+759256632,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.238923, 0.225, 0.7936259999999999, 0.7949999999999999]]",,7.613793834003445
+759415174,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.253264, 0.197665, 0.8786860000000001, 0.67615]]",,8.244128499994986
+759425320,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.433139, 0.287866, 0.584008, 0.427905]]",,12.92952100000548
+759459429,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.374511, 0.174505, 0.733019, 0.537005]]",,11.062175166000088
+759524531,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],10.903829666000092
+759668708,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.248364, 0.286053, 0.574367, 0.594213]]",,12.60876733299665
+759715161,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.268849, 0.282907, 0.596433, 0.816987]]",,11.375796707994596
+759852697,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,1,1,0.0,0.0,0.0,,"[[0.122031, 0.0, 0.83415, 0.782926]]","[{""box"": [0.344, 0.18, 0.868, 0.715]}]",5.331126000004588
+759926221,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,1,0,0,1.0,1.0,1.0,0.9106442455887888,"[[0.215825, 0.305396, 0.7243269999999999, 0.804603]]","[{""box"": [0.224, 0.32, 0.719, 0.787]}]",11.757659625000088
+760063494,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 30 (char 29)",,,,,,,,"[[0.046214, 0.080832, 0.961928, 0.943517]]",,11.09762729099748
+760082940,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],10.889728292000655
+760131117,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],10.812866833002772
+760331613,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],10.744407457998022
+760446257,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 30 (char 29)",,,,,,,,"[[0.004189, 0.0, 1.0, 0.913789]]",,12.248660124998423
+760524137,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.378163, 0.26, 0.691679, 0.6888190000000001]]",,5.295873040995502
+760581893,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 31 (char 30)",,,,,,,,"[[0.181034, 0.06, 0.788031, 0.8425]]",,4.838264042002265
+760582391,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.107097, 0.1025, 0.794898, 0.8675]]",,13.457404624998162
+760759513,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.157503, 0.292998, 0.7104379999999999, 0.7420599999999999]]",,12.179776375000074
+761013096,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.161605, 0.160597, 0.784997, 0.903126]]",,14.46574837499793
+761021296,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.208862, 0.2575, 0.938922, 0.9175]]",,3.2108714999994845
+761033047,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.158831, 0.209505, 0.7406569999999999, 0.772005]]",,3.534074959003192
+761036691,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.390571, 0.366105, 0.565902, 0.590704]]",,6.831652332999511
+761038352,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.127075, 0.212005, 0.74003, 0.769505]]",,3.4591424170066603
+761134956,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 30 (char 29)",,,,,,,,"[[0.07959, 0.052005, 0.7489650000000001, 0.8920049999999999]]",,4.783881000003021
+761135011,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.187635, 0.120547, 0.626385, 0.738047]]",,4.635137124998437
+761343247,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.310693, 0.3275, 0.593646, 0.81]]",,6.42470808300277
+761344674,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.24563, 0.289641, 0.540339, 0.751157]]",,6.1202987500000745
+761344677,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,1,0,0,1.0,1.0,1.0,0.9304020486766871,"[[0.46061, 0.279505, 0.740459, 0.6770050000000001]]","[{""box"": [0.452, 0.283, 0.734, 0.673]}]",6.836598540998239
+761346789,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.270459, 0.324709, 0.5753090000000001, 0.758737]]",,7.142825957998866
+761346797,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.31388, 0.374525, 0.559106, 0.7405550000000001]]",,6.086325374999433
+761346822,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.405767, 0.338726, 0.644382, 0.7322310000000001]]",,6.488826542001334
+761346841,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.311265, 0.31, 0.710913, 0.8400000000000001]]",,7.073033833003137
+761346884,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.276298, 0.319896, 0.618323, 0.703287]]",,8.034824624999601
+761346897,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.332575, 0.311854, 0.6612450000000001, 0.696451]]",,8.782916625001235
+761352303,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.381429, 0.370547, 0.627054, 0.6355470000000001]]",,6.505662874995323
+761352310,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.311362, 0.278555, 0.660448, 0.7520169999999999]]",,6.822044583997922
+761352364,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.301178, 0.225, 0.6695249999999999, 0.7175]]",,7.885802124998008
+761352377,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.454173, 0.421405, 0.551503, 0.541968]]",,7.2788481669995235
+761352384,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.341499, 0.325058, 0.624761, 0.7142360000000001]]",,7.558168583003862
+761354483,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.295166, 0.265, 0.743591, 0.7075]]",,6.96882879199984
+761383646,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,1,0,0,1.0,1.0,1.0,0.6085371006110604,"[[0.311684, 0.284505, 0.6364460000000001, 0.709505]]","[{""box"": [0.333, 0.283, 0.6, 0.6]}]",0.8764738330064574
+761457401,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 31 (char 30)",,,,,,,,"[[0.189301, 0.078125, 0.952299, 0.953125]]",,2.4270135420010774
+761460939,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,1,0,0,1.0,1.0,1.0,0.6770688253601517,"[[0.253931, 0.313093, 0.807443, 0.644502]]","[{""box"": [0.258, 0.313, 0.638, 0.64]}]",7.0021059999999125
+761467572,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 31 (char 30)",,,,,,,,"[[0.323716, 0.075, 0.681065, 0.8524999999999999]]",,4.626157167003839
+761471166,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.093659, 0.355, 0.941046, 0.7424999999999999]]",,4.71529158300109
+761472486,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.239164, 0.210547, 0.710476, 0.8330470000000001]]",,1.1895263330006856
+761476198,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.193738, 0.215772, 0.691719, 0.791462]]",,9.032878250000067
+761476521,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.185861, 0.190547, 0.831923, 0.800547]]",,6.598326208004437
+761476956,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.12994, 0.127149, 0.7816479999999999, 0.8448770000000001]]",,6.100208208001277
+761478127,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.20197, 0.13, 0.878903, 0.79]]",,4.57368604200019
+761478435,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,2,1,0.0,0.0,0.0,,"[[0.197074, 0.127081, 0.8339099999999999, 0.879507]]","[{""box"": [0.1, 0.2, 0.5, 0.7]}, {""box"": [0.5, 0.2, 0.83, 0.68]}]",7.448932457999035
+761479744,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.218855, 0.1775, 0.772831, 0.8425]]",,3.337112082997919
+761480934,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.132517, 0.253047, 0.76381, 0.715547]]",,1.6864943749969825
+761481875,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.152578, 0.210318, 0.8408599999999999, 0.8011780000000001]]",,6.583717417001026
+761483634,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.183028, 0.2825, 0.606417, 0.865]]",,4.404093416000251
+761484080,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.163082, 0.285, 0.7906390000000001, 0.751667]]",,2.7893666250020033
+761486404,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.143925, 0.166148, 0.7468819999999999, 0.7236699999999999]]",,6.728477666001709
+761501155,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.04, 0.41, 0.7466670000000001, 0.7849999999999999]]",,6.826309415999276
+761502814,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 30 (char 29)",,,,,,,,"[[0.072907, 0.043891, 0.8884259999999999, 0.933963]]",,6.891042458999436
+761504261,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.227795, 0.493859, 0.9151929999999999, 0.817186]]",,7.084369708005397
+761513354,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.283333, 0.215, 0.8200000000000001, 0.525]]",,7.112130665998848
+761545798,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.035892, 0.365314, 0.567543, 0.772424]]",,7.025123792001978
+761582085,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.225825, 0.420547, 0.7510809999999999, 0.810547]]",,5.843928458001756
+761614361,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,1,0,0,1.0,1.0,1.0,0.7910532704600373,"[[0.225889, 0.227948, 0.852725, 0.786613]]","[{""box"": [0.295, 0.254, 0.835, 0.767]}]",2.99584062500071
+761660395,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.268273, 0.292308, 0.608568, 0.525333]]",,7.162685750001401
+761663054,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.160539, 0.377085, 0.732163, 0.639393]]",,4.781331416998
+761673791,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.3887, 0.281522, 0.555025, 0.638428]]",,1.5672274579992518
+761716550,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.437434, 0.272005, 0.945475, 0.624505]]",,7.610564374997921
+761716911,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.377631, 0.471499, 0.7106680000000001, 0.681508]]",,7.31964433399844
+761718646,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],7.146476583999174
+761722609,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],7.09848020899517
+761724006,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.379635, 0.334666, 0.523068, 0.550474]]",,5.676662124998984
+761729653,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.297194, 0.149505, 0.7031940000000001, 0.6045050000000001]]",,3.8712183329989784
+761729775,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.473222, 0.216855, 0.7866869999999999, 0.646362]]",,3.8321711250027874
+761729799,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.189563, 0.319902, 0.702647, 0.7453430000000001]]",,3.6968069590002415
+761731379,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.831156874999579
+761739870,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.216, 0.28, 0.76, 0.8525]]",,3.747352459002286
+761761078,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.193194, 0.192005, 0.785194, 0.792005]]",,3.771057332996861
+761770628,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.467608, 0.228414, 0.758991, 0.41465]]",,7.427786667001783
+761773132,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.229194, 0.242005, 0.595194, 0.669505]]",,3.8096222079984727
+761781835,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.219282, 0.214034, 0.69212, 0.7182459999999999]]",,3.4115997919943766
+761793314,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],3.2021252079939586
+761800380,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],3.355966458002513
+761800430,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.331222, 0.160417, 0.649278, 0.769792]]",,3.9472004159979406
+761832174,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 31 (char 30)",,,,,,,,"[[0.041432, 0.165, 0.704349, 0.6475]]",,4.861120042005496
+761832556,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,1,1,0.0,0.0,0.0,,"[[0.136181, 0.27, 0.840209, 0.775]]","[{""box"": [0.1, 0.2, 0.5, 0.7]}]",0.902596915999311
+761832731,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.382732, 0.441209, 0.6691910000000001, 0.7035290000000001]]",,0.9185446249975939
+761834976,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.238743, 0.248333, 0.724718, 0.790407]]",,9.8291069170009
+761838259,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.337946, 0.327014, 0.717658, 0.583704]]",,4.5527792909997515
+761853118,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.3986885829945095
+761863058,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.450506583001697
+761869092,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.304435, 0.209201, 0.685214, 0.507595]]",,4.077038250004989
+761875876,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],4.322682292004174
+761882503,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 31 (char 30)",,,,,,,,"[[0.217235, 0.049505, 0.781663, 0.869505]]",,4.309118707999005
+761883601,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],4.578662790998351
+761887706,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.155468, 0.308259, 0.853162, 0.855315]]",,3.338773665993358
+761915126,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.230526, 0.481289, 0.670828, 0.744978]]",,6.728702583997801
+761918617,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.638598457997432
+761921435,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.372751, 0.514504, 0.656193, 0.642053]]",,7.293434791994514
+761921826,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.136778, 0.289901, 0.629309, 0.795291]]",,7.260796791997564
+761927370,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.262449, 0.448855, 0.476329, 0.597584]]",,6.976460458994552
+761939315,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.213882, 0.1925, 0.853228, 0.7775]]",,9.184352625001338
+761939431,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.314141, 0.250793, 0.6961200000000001, 0.701479]]",,9.338606167002581
+761939510,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.45035, 0.431737, 0.594621, 0.583919]]",,10.787599540999508
+761940682,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.226067, 0.207118, 0.7896380000000001, 0.7263080000000001]]",,3.2821232909991522
+761945019,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.206141, 0.32, 0.691508, 0.8374999999999999]]",,5.477794457998243
+761945708,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.33, 0.1425, 0.7725, 0.7274999999999999]]",,6.977392499997222
+761945992,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.37237, 0.269505, 0.6779949999999999, 0.742005]]",,7.35395037499984
+761948349,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,1,0,0,1.0,1.0,1.0,0.5662449814456431,"[[0.124143, 0.17928, 0.859562, 0.687604]]","[{""box"": [0.288, 0.302, 0.848, 0.68]}]",5.609166959002323
+761958522,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.324894, 0.366456, 0.7284630000000001, 0.602061]]",,9.40023787500104
+761958523,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.366344, 0.376369, 0.634769, 0.517305]]",,10.09144570799981
+761960813,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 31 (char 30)",,,,,,,,"[[0.0, 0.307491, 0.884763, 0.808047]]",,7.250960250006756
+761968869,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],9.906935917002556
+762003352,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],5.665457082999637
+762036277,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.533558, 0.273133, 0.698907, 0.46718400000000004]]",,7.003156166996632
+762052670,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.6980736250043265
+762059095,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.096959, 0.146226, 0.845656, 0.861962]]",,1.261724874995707
+762098330,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 31 (char 30)",,,,,,,,"[[0.292093, 0.082647, 0.785021, 0.720935]]",,10.184623624998494
+762098881,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.319873, 0.351033, 0.626708, 0.685059]]",,3.302056958003959
+762100611,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.181676, 0.311269, 0.8336110000000001, 0.6598980000000001]]",,4.758980375001556
+762105008,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.382174, 0.341761, 0.69888, 0.6139859999999999]]",,2.5900256669992814
+762122255,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,1,0,0,1.0,1.0,1.0,0.9125038971483524,"[[0.579166, 0.513253, 0.707159, 0.610748]]","[{""box"": [0.578, 0.515, 0.704, 0.607]}]",7.179169458002434
+762125600,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.314382, 0.326345, 0.6462060000000001, 0.645157]]",,2.5195678749951185
+762138814,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.155618, 0.20054, 0.45701800000000004, 0.415302]]",,3.4722687079993193
+762144892,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.411422, 0.461341, 0.5234920000000001, 0.630883]]",,5.902530957995623
+762191645,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,2,1,0.0,0.0,0.0,,"[[0.024784, 0.029505, 0.971518, 0.942005]]","[{""box"": [0.1, 0.2, 0.5, 0.7]}, {""box"": [0.1, 0.2, 0.5, 0.7]}]",6.5129545420059
+762197262,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.234327, 0.291227, 0.7320880000000001, 0.7566010000000001]]",,1.1920400000017253
+762198233,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.3211708329981775
+762199511,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],8.738284582999768
+762201154,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],9.376043750002282
+762210333,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,1,0,0,1.0,1.0,1.0,0.9108002955204285,"[[0.283181, 0.227005, 0.822204, 0.747005]]","[{""box"": [0.291, 0.234, 0.812, 0.724]}]",0.9000135419992148
+762234779,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 31 (char 30)",,,,,,,,"[[0.101003, 0.078094, 0.929738, 0.953128]]",,2.4751891249979963
+762235232,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 31 (char 30)",,,,,,,,"[[0.195789, 0.095, 0.8716389999999999, 0.8875]]",,2.385174499999266
+762240560,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 30 (char 29)",,,,,,,,"[[0.3125, 0.0, 0.799578, 0.919436]]",,6.756929750001291
+762240768,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.412718, 0.284168, 0.727116, 0.5137079999999999]]",,7.98715208399517
+762240961,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,JSONDecodeError: Expecting value: line 1 column 1 (char 0),,,,,,,,"[[0.446708, 0.237292, 0.76178, 0.495297]]",,26.69071554200491
+762241503,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.222222, 0.3125, 0.977778, 0.6775]]",,5.135185333994741
+762246815,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.377536, 0.355862, 0.650515, 0.564083]]",,1.5693473339997581
+762264076,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.319666, 0.297005, 0.74699, 0.744505]]",,8.028097624999646
+762270198,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.470279, 0.428375, 0.576155, 0.526961]]",,6.772039458002837
+762277068,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.310066, 0.2625, 0.9389080000000001, 0.885]]",,6.269797125001787
+762287153,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.249461, 0.295688, 0.598325, 0.812425]]",,3.723070792002545
+762322057,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.158444, 0.106698, 0.593002, 0.8192269999999999]]",,5.730888583006163
+762322081,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.185491, 0.417005, 0.615586, 0.764505]]",,6.380132457998116
+762322566,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.402267, 0.441954, 0.590311, 0.604012]]",,8.194650040997658
+762333038,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.34125, 0.14, 0.6525000000000001, 0.785]]",,6.853884583004401
+762339108,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.416354, 0.294826, 0.646389, 0.656516]]",,6.8204300419965875
+762347496,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.260598, 0.401256, 0.693175, 0.632807]]",,6.607364167000924
+762351486,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],4.442787334002787
+762357529,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.2565748340057326
+762360257,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.105136, 0.201997, 0.868853, 0.818201]]",,10.046395666002354
+762373286,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.450407, 0.317676, 0.888255, 0.545825]]",,4.649170167002012
+762375772,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],1.5443854999975883
+762411542,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.662327042002289
+762412869,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.633210957996198
+762418100,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.058438, 0.089844, 1.0, 0.988282]]",,10.778274958000111
+762421600,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.857571957996697
+762437020,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],5.780785750001087
+762445055,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 31 (char 30)",,,,,,,,"[[0.032787, 0.131895, 0.908071, 0.8013089999999999]]",,1.5011000000013155
+762445761,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.8922120409988565
+762446543,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.5659656659991015
+762447322,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.760495707996597
+762448002,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.442325582997
+762449856,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.375823, 0.274814, 0.6223080000000001, 0.524983]]",,7.074185792000208
+762452678,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.048335, 0.265, 0.905751, 0.8025]]",,5.993215249996865
+762453423,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.384141, 0.211677, 0.828825, 0.522189], [0.205611, 0.278215, 0.5911500000000001, 0.595299]]",,6.805857167004433
+762453524,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 30 (char 29)",,,,,,,,"[[0.0378, 0.072005, 0.929645, 0.934505]]",,2.223036209004931
+762454619,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 30 (char 29)",,,,,,,,"[[0.031434, 0.044505, 0.9706009999999999, 0.994505]]",,7.441992958003539
+762456614,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.553491500002565
+762469277,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,1,0,0,1.0,1.0,1.0,0.9591180156489713,"[[0.222639, 0.120547, 0.767962, 0.733047]]","[{""box"": [0.234, 0.125, 0.768, 0.725]}]",0.8630112920000101
+762470053,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],5.438410292001208
+762470347,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],5.223717916000169
+762475327,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.196471, 0.22534, 0.7008270000000001, 0.641283]]",,6.497374749997107
+762478587,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.143268, 0.159765, 0.7683359999999999, 0.7859400000000001]]",,6.122893790998205
+762478784,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],4.192050625002594
+762480207,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],3.373188042001857
+762482777,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],3.118390209005156
+762484902,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],4.227635167000699
+762484992,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.178083166996657
+762487580,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.16541787499591
+762491449,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.145458667000639
+762502750,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.232580792006047
+762511082,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.113453, 0.141412, 0.998387, 0.803304]]",,6.588338374996965
+762515130,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],0.9835005830027512
+762515909,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],3.8539008340012515
+762517549,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.278108, 0.361703, 0.42018900000000003, 0.485151]]",,6.667436708004971
+762517553,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.482564, 0.184327, 0.6507499999999999, 0.420631]]",,6.735563540998555
+762517911,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,4,0,0,1.0,1.0,1.0,0.864042767576224,"[[0.147599, 0.460294, 0.31827099999999997, 0.773759], [0.286623, 0.470843, 0.5511090000000001, 0.7918430000000001], [0.438081, 0.543181, 0.7387360000000001, 0.87473], [0.88416, 0.301707, 0.971918, 0.55477]]","[{""box"": [0.285, 0.47, 0.551, 0.795]}, {""box"": [0.455, 0.52, 0.738, 0.875]}, {""box"": [0.15, 0.46, 0.318, 0.735]}, {""box"": [0.905, 0.305, 0.97, 0.555]}]",8.02294633299607
+762517963,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.259791, 0.295149, 0.509614, 0.503302]]",,7.131182083001477
+762525008,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],7.0839431659987895
+762534292,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.29747, 0.154991, 0.817069, 0.955547]]",,3.5878960420013755
+762535250,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],5.5731522499991115
+762536519,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.402317, 0.514383, 0.63751, 0.6885060000000001]]",,6.900744124999619
+762537101,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.314576124997984
+762538109,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.264763, 0.263047, 0.668096, 0.638047]]",,6.728300707996823
+762545786,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.578771917003905
+762557330,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.578245999997307
+762558441,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,2,1,0.0,0.0,0.0,,"[[0.07221, 0.041914, 0.921658, 0.969648]]","[{""box"": [0.1, 0.2, 0.5, 0.7]}, {""box"": [0.1, 0.2, 0.5, 0.7]}]",6.5578074590011965
+762559176,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],5.466771416999109
+762560053,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],3.083898290999059
+762560092,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.206633, 0.144519, 0.7089799999999999, 0.628028]]",,3.524452208002913
+762560135,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],3.0669332500037854
+762571409,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],3.5821903749965713
+762585816,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.778520500003651
+762589512,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.228278, 0.23, 0.719825, 0.72]]",,6.276547582994681
+762591214,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.634125374999712
+762592878,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],7.361739125000895
+762594197,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],7.443814375001239
+762594300,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],7.136978499998804
+762594620,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.115329375003057
+762595951,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],7.393607042002259
+762596220,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.447465, 0.415414, 0.619299, 0.601568]]",,7.631524625001475
+762596321,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.250517583001056
+762598069,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.334628833006718
+762598738,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,1,,0.0,0.0,,"[[0.077269, 0.006569, 0.853846, 0.9241]]",[],6.277039957996749
+762602212,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.371948, 0.361399, 0.892469, 0.58846]]",,3.6945748750003986
+762603703,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.530903750004654
+762604093,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.9685882499979925
+762604632,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.500097874995845
+762604716,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.194511, 0.229091, 0.725734, 0.7496259999999999]]",,4.982762708001246
+762610092,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.307592083001509
+762610654,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.685609915999521
+762613770,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,1,1,0,0.5,1.0,0.6666666666666666,0.6682566405311803,"[[0.429896, 0.297569, 0.640834, 0.7055549999999999]]","[{""box"": [0.438, 0.305, 0.6, 0.66]}, {""box"": [0.565, 0.84, 0.675, 0.999]}]",7.455085833003977
+762613968,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.332422, 0.250546, 0.642262, 0.652424]]",,6.781250957996235
+762614145,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.5003049170045415
+762614550,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],5.7840527090011165
+762614830,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],3.728341125002771
+762615334,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],1.3112792079991777
+762616763,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.312043542005995
+762622379,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 31 (char 30)",,,,,,,,"[[0.297539, 0.031563, 0.804375, 0.957344]]",,6.711879458001931
+762622634,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.215504, 0.139991, 0.8225410000000001, 0.8977689999999999]]",,6.988306999999622
+762623221,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.495424125001591
+762623917,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.69769074999931
+762626192,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],3.2374371670011897
+762628762,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 30 (char 29)",,,,,,,,"[[0.065626, 0.043953, 0.8093509999999999, 0.948178]]",,5.947823333000997
+762629038,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.812143750001269
+762630328,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.684833874998731
+762631844,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.263072, 0.145035, 0.642787, 0.605104]]",,7.806694957995205
+762633341,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,1,0,0,1.0,1.0,1.0,0.9278017966684893,"[[0.197995, 0.224505, 0.6967450000000001, 0.6770050000000001]]","[{""box"": [0.207, 0.235, 0.705, 0.685]}]",7.37855358300294
+762634925,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],3.7869765000068583
+762634996,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],3.969381875002
+762636731,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],7.596839666002779
+762638503,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.314775833001477
+762640577,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.392839833002654
+762641693,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],9.743968583999958
+762641966,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.239705, 0.336188, 0.62095, 0.615699]]",,4.77653662499506
+762642678,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.578437999996822
+762645146,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],7.555009124997014
+762646085,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.162147290997382
+762648669,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.144763, 0.293047, 0.59143, 0.710547]]",,6.4763236660000985
+762648878,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.162404041002446
+762649210,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.126146041999164
+762650278,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.125120708995382
+762652988,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.0441490419980255
+762655060,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.317968, 0.427787, 0.541412, 0.673736]]",,6.607879957999103
+762656829,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.072586166999827
+762656846,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.046976917001302
+762656987,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.165301416003786
+762657101,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.227026458000182
+762657328,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.1023570420002216
+762657402,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.086310750004486
+762657564,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.061708666995401
+762657685,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.121336500000325
+762662317,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.013985915997182
+762663145,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.454072, 0.274422, 0.668067, 0.505325]]",,4.610406416999467
+762663515,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.327794, 0.242312, 0.515376, 0.42779100000000003]]",,6.533484125000541
+762663565,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.096896915994876
+762663975,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.228624041999865
+762664675,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.618120209001063
+762664826,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.528640374999668
+762664900,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.586277082999004
+762665997,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.317464, 0.291065, 0.637292, 0.667825]]",,6.997306457997183
+762666364,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.218657, 0.277005, 0.828657, 0.7670049999999999]]",,7.072492833001888
+762666442,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.424376, 0.47945, 0.51455, 0.54136]]",,7.075891124994087
+762668867,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.347995, 0.544119, 0.404992, 0.599616]]",,7.210046375003003
+762668953,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.134763, 0.365547, 0.538096, 0.818047]]",,6.98208091599372
+762669005,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.926515042003302
+762671481,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.6104177920060465
+762671634,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.5331189169955906
+762671753,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.553085, 0.343655, 0.6797570000000001, 0.47116]]",,6.912677459004044
+762672181,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.135239, 0.395919, 0.774336, 0.589183]]",,6.981468416997814
+762672418,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,1,1,0,0.5,1.0,0.6666666666666666,0.8148448363358417,"[[0.312947, 0.440167, 0.469654, 0.546899]]","[{""box"": [0.3, 0.443, 0.464, 0.54]}, {""box"": [0.35, 0.443, 0.464, 0.54]}]",7.255660374998115
+762672514,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.2856307920010295
+762674744,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,1,0,0,1.0,1.0,1.0,0.8470706308579745,"[[0.048547, 0.0525, 0.859595, 0.923086]]","[{""box"": [0.062, 0.07, 0.938, 0.888]}]",2.529183250000642
+762675554,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 31 (char 30)",,,,,,,,"[[0.154338, 0.063386, 0.929407, 0.903664]]",,9.033042582996131
+762678918,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],4.176425207995635
+762680309,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],4.458518207997258
+762681770,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.208753, 0.28186, 0.719472, 0.694203]]",,6.698689917000593
+762682358,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.258485, 0.152172, 0.812403, 0.689055]]",,7.28120095799386
+762682720,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 30 (char 29)",,,,,,,,"[[0.021453, 0.048523, 0.9583109999999999, 0.922412]]",,8.511185082999873
+762682727,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.300533, 0.360329, 0.51323, 0.522556]]",,6.750378416996682
+762684165,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],3.959760625002673
+762684759,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.254074, 0.299583, 0.967037, 0.794375]]",,6.795425250005792
+762684953,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.345134582996252
+762685653,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,1,0,0,1.0,1.0,1.0,0.9640455937212885,"[[0.184667, 0.3185, 0.736977, 0.7703249999999999]]","[{""box"": [0.188, 0.312, 0.732, 0.767]}]",6.803673832997447
+762685755,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,1,1,0,0.5,1.0,0.6666666666666666,0.8126204109606405,"[[0.415313, 0.399529, 0.554345, 0.522124]]","[{""box"": [0.415, 0.399, 0.53, 0.521]}, {""box"": [0.55, 0.412, 0.625, 0.467]}]",7.388606375003292
+762685946,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.431140959000913
+762686053,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],6.545674415996473
+762687234,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],7.084442042003502
+762688864,Qwen/Qwen3-VL-2B-Instruct,,0.5,,error,"JSONDecodeError: Expecting ',' delimiter: line 1 column 32 (char 31)",,,,,,,,"[[0.417448, 0.37169, 0.598293, 0.624873]]",,7.683255000003555
+762692510,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],2.848150333004014
+762692601,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],7.550434791999578
+762692929,Qwen/Qwen3-VL-2B-Instruct,,0.5,,ok,,0,0,0,,,,,[],[],7.132619124997291
