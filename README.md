@@ -35,7 +35,30 @@ uv run render-predictions -i data/qwen_prediction.jsonl -o data/images/qwen_resu
 
 ## Примеры сложной разметки от Qwen
 
+<details>
+<summary>Две пересекающиеся бабочки</summary>
+
 ![](data/images/examples/54409.jpg)
+
+</details>
+
+<details>
+<summary>Бабочка vs пчела</summary>
+
 ![](data/images/examples/206361.jpg)
+
+</details>
+
+<details>
+<summary>Замаскировавшаяся бабочка #1</summary>
+
 ![](data/images/examples/523030.jpg)
+
+</details>
+
+<details>
+<summary>Замаскировавшаяся бабочка #2</summary>
+
 ![](data/images/examples/527798.jpg)
+
+</details>
