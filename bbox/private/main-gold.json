@@ -1,0 +1,193 @@
+[
+  {
+    "photo_id": 762589358,
+    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/762589358/original.jpg",
+    "split": "control",
+    "status": "found",
+    "image_width": 1440,
+    "image_height": 1080,
+    "boxes": [
+      {
+        "left": 0.25702076,
+        "top": 0.22372391,
+        "width": 0.44516547,
+        "height": 0.49203542
+      }
+    ],
+    "error": null,
+    "annotator": "Никита",
+    "reviewed_by": null,
+    "comment": ""
+  },
+  {
+    "photo_id": 762687131,
+    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/762687131/original.jpg",
+    "split": "control",
+    "status": "none",
+    "image_width": 1536,
+    "image_height": 2048,
+    "boxes": [],
+    "error": null,
+    "annotator": "Никита",
+    "reviewed_by": null,
+    "comment": ""
+  },
+  {
+    "photo_id": 762680274,
+    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/762680274/original.jpg",
+    "split": "control",
+    "status": "found",
+    "image_width": 1536,
+    "image_height": 2048,
+    "boxes": [
+      {
+        "left": 0.39316941,
+        "top": 0.29217015,
+        "width": 0.36775995,
+        "height": 0.25739969
+      }
+    ],
+    "error": null,
+    "annotator": "Никита",
+    "reviewed_by": null,
+    "comment": ""
+  },
+  {
+    "photo_id": 44472622,
+    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/44472622/original.jpeg",
+    "split": "control",
+    "status": "found",
+    "image_width": 2048,
+    "image_height": 1638,
+    "boxes": [
+      {
+        "left": 0.15793373,
+        "top": 0.10803054,
+        "width": 0.54729593,
+        "height": 0.589505
+      },
+      {
+        "left": 0.530526,
+        "top": 0.2631005,
+        "width": 0.33582525,
+        "height": 0.53932185
+      }
+    ],
+    "error": null,
+    "annotator": "Никита",
+    "reviewed_by": null,
+    "comment": ""
+  },
+  {
+    "photo_id": 762677167,
+    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/762677167/original.jpg",
+    "split": "control",
+    "status": "none",
+    "image_width": 1152,
+    "image_height": 2048,
+    "boxes": [],
+    "error": null,
+    "annotator": "Никита",
+    "reviewed_by": null,
+    "comment": ""
+  },
+  {
+    "photo_id": 761346880,
+    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/761346880/original.jpg",
+    "split": "control",
+    "status": "found",
+    "image_width": 2048,
+    "image_height": 1642,
+    "boxes": [
+      {
+        "left": 0.33434412,
+        "top": 0.32901773,
+        "width": 0.26565588,
+        "height": 0.3255512
+      },
+      {
+        "left": 0.21833333,
+        "top": 0.51351351,
+        "width": 0.1675,
+        "height": 0.19438669
+      }
+    ],
+    "error": null,
+    "annotator": "Никита",
+    "reviewed_by": "Codex",
+    "comment": "При повторной проверке добавлена вторая рамка: тёмная бабочка слева снизу от светлой."
+  },
+  {
+    "photo_id": 762614362,
+    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/762614362/original.jpg",
+    "split": "control",
+    "status": "found",
+    "image_width": 2048,
+    "image_height": 1534,
+    "boxes": [
+      {
+        "left": 0.2115221,
+        "top": 0.12806478,
+        "width": 0.63943711,
+        "height": 0.67198574
+      }
+    ],
+    "error": null,
+    "annotator": "Никита",
+    "reviewed_by": null,
+    "comment": ""
+  },
+  {
+    "photo_id": 762200677,
+    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/762200677/original.jpg",
+    "split": "control",
+    "status": "none",
+    "image_width": 2001,
+    "image_height": 1608,
+    "boxes": [],
+    "error": null,
+    "annotator": "Никита",
+    "reviewed_by": null,
+    "comment": ""
+  },
+  {
+    "photo_id": 599599023,
+    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/599599023/original.jpg",
+    "split": "control",
+    "status": "found",
+    "image_width": 841,
+    "image_height": 836,
+    "boxes": [
+      {
+        "left": 0.08795552,
+        "top": 0.29970668,
+        "width": 0.81910146,
+        "height": 0.45290725
+      }
+    ],
+    "error": null,
+    "annotator": "Никита",
+    "reviewed_by": null,
+    "comment": ""
+  },
+  {
+    "photo_id": 762613856,
+    "image_url": "https://inaturalist-open-data.s3.amazonaws.com/photos/762613856/original.jpg",
+    "split": "control",
+    "status": "found",
+    "image_width": 2048,
+    "image_height": 1535,
+    "boxes": [
+      {
+        "left": 0.40622294,
+        "top": 0.23878574,
+        "width": 0.21272088,
+        "height": 0.38847908
+      }
+    ],
+    "error": null,
+    "annotator": "Никита",
+    "reviewed_by": null,
+    "comment": ""
+  }
+]

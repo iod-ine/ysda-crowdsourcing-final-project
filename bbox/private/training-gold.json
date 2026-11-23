@@ -1,0 +1,157 @@
+{
+  "https://inaturalist-open-data.s3.amazonaws.com/photos/761722331/original.jpg": {
+    "photo_id": "761722331",
+    "boxes": [
+      {
+        "left": 0.21848891388174796,
+        "top": 0.32117609254498714,
+        "width": 0.22363030205655532,
+        "height": 0.30980880462724925
+      }
+    ]
+  },
+  "https://inaturalist-open-data.s3.amazonaws.com/photos/761383818/original.jpg": {
+    "photo_id": "761383818",
+    "boxes": [
+      {
+        "left": 0.25022091902313626,
+        "top": 0.18939405112769114,
+        "width": 0.528860057840617,
+        "height": 0.5955674531833679
+      }
+    ]
+  },
+  "https://inaturalist-open-data.s3.amazonaws.com/photos/762657076/original.jpg": {
+    "photo_id": "762657076",
+    "boxes": [
+      {
+        "left": 0.12530069856610115,
+        "top": 0.15066442565260774,
+        "width": 0.7089138668580864,
+        "height": 0.6935063116060017
+      }
+    ]
+  },
+  "https://inaturalist-open-data.s3.amazonaws.com/photos/567347185/original.jpg": {
+    "photo_id": "567347185",
+    "boxes": [
+      {
+        "left": 0.17516870179948585,
+        "top": 0.2484602613538988,
+        "width": 0.4071838849614394,
+        "height": 0.5434875749785775
+      },
+      {
+        "left": 0.49867448586118246,
+        "top": 0.12325942587832046,
+        "width": 0.38132631748071966,
+        "height": 0.530192266495287
+      }
+    ]
+  },
+  "https://inaturalist-open-data.s3.amazonaws.com/photos/762664100/original.jpg": {
+    "photo_id": "762664100",
+    "boxes": []
+  },
+  "https://inaturalist-open-data.s3.amazonaws.com/photos/761662522/original.jpg": {
+    "photo_id": "761662522",
+    "boxes": [
+      {
+        "left": 0.24217745822622108,
+        "top": 0.200243417378198,
+        "width": 0.4352606844473008,
+        "height": 0.437942387952932
+      }
+    ]
+  },
+  "https://inaturalist-open-data.s3.amazonaws.com/photos/761939177/original.jpg": {
+    "photo_id": "761939177",
+    "boxes": [
+      {
+        "left": 0.30320131748071977,
+        "top": 0.2416677202298173,
+        "width": 0.4935230559125964,
+        "height": 0.40607835700338535
+      }
+    ]
+  },
+  "https://inaturalist-open-data.s3.amazonaws.com/photos/762601421/original.jpg": {
+    "photo_id": "762601421",
+    "boxes": [
+      {
+        "left": 0.32386728791773767,
+        "top": 0.2875763507499869,
+        "width": 0.3643858451156812,
+        "height": 0.4766756709568347
+      }
+    ]
+  },
+  "https://inaturalist-open-data.s3.amazonaws.com/photos/599924128/original.jpg": {
+    "photo_id": "599924128",
+    "boxes": [
+      {
+        "left": 0.3544444890745502,
+        "top": 0.2889845144823947,
+        "width": 0.3151811535989716,
+        "height": 0.42252486333601247
+      }
+    ]
+  },
+  "https://inaturalist-open-data.s3.amazonaws.com/photos/388813999/original.jpeg": {
+    "photo_id": "388813999",
+    "boxes": [
+      {
+        "left": 0.16868426687046878,
+        "top": 0.2170802398981578,
+        "width": 0.310496508555505,
+        "height": 0.5119876321511945
+      },
+      {
+        "left": 0.39456986901434105,
+        "top": 0.17522107657354744,
+        "width": 0.37628246624330414,
+        "height": 0.5779347653551011
+      }
+    ]
+  },
+  "https://inaturalist-open-data.s3.amazonaws.com/photos/762514623/original.jpg": {
+    "photo_id": "762514623",
+    "boxes": []
+  },
+  "https://inaturalist-open-data.s3.amazonaws.com/photos/762575383/original.jpg": {
+    "photo_id": "762575383",
+    "boxes": []
+  },
+  "https://inaturalist-open-data.s3.amazonaws.com/photos/762664520/original.jpg": {
+    "photo_id": "762664520",
+    "boxes": []
+  },
+  "https://inaturalist-open-data.s3.amazonaws.com/photos/762574511/original.jpg": {
+    "photo_id": "762574511",
+    "boxes": [
+      {
+        "left": 0.28960475578406164,
+        "top": 0.3091396178799776,
+        "width": 0.3877831780205656,
+        "height": 0.30834769343766794
+      }
+    ]
+  },
+  "https://inaturalist-open-data.s3.amazonaws.com/photos/760750840/original.jpg": {
+    "photo_id": "760750840",
+    "boxes": [
+      {
+        "left": 0.26257230077120824,
+        "top": 0.16172191810891048,
+        "width": 0.528488512210797,
+        "height": 0.4794183946060684
+      },
+      {
+        "left": 0.2872148136246787,
+        "top": 0.488862329261559,
+        "width": 0.4981322300771208,
+        "height": 0.511137670738441
+      }
+    ]
+  }
+}

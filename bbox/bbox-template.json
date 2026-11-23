@@ -1,0 +1,195 @@
+{
+  "view": {
+    "type": "view.list",
+    "items": [
+      {
+        "type": "view.text",
+        "content": "Выделите всех взрослых бабочек — дневных и ночных — отдельными прямоугольными рамками. Рамка должна плотно охватывать видимые крылья, тело, усики и лапки. Скрытые части не достраивайте. Гусениц, куколок, других насекомых и тени не выделяйте."
+      },
+      {
+        "type": "field.image-annotation",
+        "label": "Одна бабочка — одна рамка",
+        "image": {
+          "type": "data.input",
+          "path": "image"
+        },
+        "data": {
+          "type": "data.output",
+          "path": "result"
+        },
+        "fullHeight": true,
+        "shapes": {
+          "rectangle": true
+        },
+        "validation": {
+          "type": "helper.if",
+          "condition": {
+            "type": "condition.equals",
+            "data": {
+              "type": "data.output",
+              "path": "status"
+            },
+            "to": "found"
+          },
+          "then": {
+            "type": "condition.not",
+            "condition": {
+              "type": "condition.empty",
+              "data": {
+                "type": "data.output",
+                "path": "result"
+              }
+            },
+            "hint": "Выделите хотя бы одну бабочку рамкой или измените ответ."
+          },
+          "else": {
+            "type": "helper.if",
+            "condition": {
+              "type": "condition.equals",
+              "data": {
+                "type": "data.output",
+                "path": "status"
+              },
+              "to": "none"
+            },
+            "then": {
+              "type": "condition.empty",
+              "data": {
+                "type": "data.output",
+                "path": "result"
+              },
+              "hint": "Для ответа «Бабочек нет» или «Изображение не загрузилось» удалите все рамки."
+            },
+            "else": {
+              "type": "helper.if",
+              "condition": {
+                "type": "condition.equals",
+                "data": {
+                  "type": "data.output",
+                  "path": "status"
+                },
+                "to": "load_error"
+              },
+              "then": {
+                "type": "condition.empty",
+                "data": {
+                  "type": "data.output",
+                  "path": "result"
+                },
+                "hint": "Для ответа «Бабочек нет» или «Изображение не загрузилось» удалите все рамки."
+              },
+              "else": {
+                "type": "condition.equals",
+                "data": true,
+                "to": true
+              }
+            }
+          }
+        },
+        "disabled": false,
+        "hint": "E — прямоугольник: нажмите на два противоположных угла. Q — выбрать рамку; затем нажмите «Удалить прямоугольник», чтобы удалить её."
+      },
+      {
+        "type": "view.action-button",
+        "label": "Очистить все рамки",
+        "hint": "Удаляет все нарисованные рамки на этой фотографии. После нажатия их нужно нарисовать заново.",
+        "action": {
+          "type": "action.set",
+          "data": {
+            "type": "data.output",
+            "path": "result"
+          },
+          "payload": []
+        }
+      },
+      {
+        "type": "field.radio-group",
+        "label": "Результат просмотра фотографии",
+        "data": {
+          "type": "data.output",
+          "path": "status"
+        },
+        "options": [
+          {
+            "label": "Бабочки есть — все выделены рамками",
+            "value": "found"
+          },
+          {
+            "label": "На фотографии нет взрослых бабочек",
+            "value": "none"
+          },
+          {
+            "label": "Изображение не загрузилось",
+            "value": "load_error"
+          },
+          {
+            "label": "Есть сомнения — нужна дополнительная проверка",
+            "value": "uncertain"
+          }
+        ],
+        "validation": {
+          "type": "condition.required",
+          "hint": "Выберите результат просмотра фотографии."
+        }
+      },
+      {
+        "type": "view.text",
+        "content": "Если сомневаетесь, является ли объект бабочкой или где провести границу, выберите «Есть сомнения», выделите уверенно распознанных бабочек и укажите расположение спорного объекта в комментарии. Если изображение не открылось, выберите «Изображение не загрузилось», а не «Нет бабочек»."
+      },
+      {
+        "type": "field.textarea",
+        "label": "Комментарий (обязателен при сомнениях)",
+        "placeholder": "Например: справа внизу мелкое насекомое — не уверен, бабочка ли это.",
+        "data": {
+          "type": "data.output",
+          "path": "comment"
+        },
+        "validation": {
+          "type": "helper.if",
+          "condition": {
+            "type": "condition.equals",
+            "data": {
+              "type": "data.output",
+              "path": "status"
+            },
+            "to": "uncertain"
+          },
+          "then": {
+            "type": "condition.schema",
+            "data": {
+              "type": "data.output",
+              "path": "comment"
+            },
+            "schema": {
+              "type": "string",
+              "pattern": "\\S"
+            },
+            "hint": "Опишите сомнение и расположение спорного объекта."
+          },
+          "else": {
+            "type": "condition.equals",
+            "data": true,
+            "to": true
+          }
+        }
+      }
+    ]
+  },
+  "plugins": [
+    {
+      "type": "plugin.toloka",
+      "layout": {
+        "kind": "pager"
+      }
+    },
+    {
+      "type": "plugin.field.image-annotation.hotkeys",
+      "modes": {
+        "select": "q",
+        "rectangle": "e"
+      },
+      "confirm": "a",
+      "cancel": "s"
+    }
+  ]
+}
