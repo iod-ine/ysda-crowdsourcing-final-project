@@ -13,8 +13,8 @@
 Воспроизвести результаты оценки можно при помощи следующих команд:
 
 ```shell
-uv run materialize -i path/to/golden_set.json
-uv run evaluate -i path/to/golden_set.json -m [dino|owl|qwen]
+uv run materialize -i data/golden_set.json
+uv run evaluate -i data/golden_set.json -m [dino|owl|qwen] [--labels ... --score-threshold ... | --prompt ... ]
 uv run recover-evaluation data/evaluations/qwen_manual_prompt.csv data/evaluations/qwen_manual_prompt.responses.jsonl data/evaluations/qwen_manual_prompt_recovered.csv
 ```
 
